@@ -244,11 +244,13 @@
     "updated_at": "2026-05-17T20:14:34"
   },
   "INTC": {
-    "date": "2026-07-23",
-    "period_end": "2026-06-29",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-18T02:33:15",
-    "source": "https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results"
+    "date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-24T02:32:45",
+    "source": "https://www.tipranks.com/stocks/intc/earnings",
+    "last_report_date": "2026-07-23",
+    "last_report_quarter": "FY26Q2"
   },
   "IREN": {
     "date": "2026-08-27",
