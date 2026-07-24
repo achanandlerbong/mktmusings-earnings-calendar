@@ -217,11 +217,13 @@
     "updated_at": "2026-07-03T02:30:00"
   },
   "GOOGL": {
-    "date": "2026-07-22",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-18T02:32:14",
-    "source": "https://www.financecalendar.com/event/googl-earnings-july-2026/"
+    "date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-24T02:32:53",
+    "source": "https://www.tipranks.com/stocks/googl/earnings",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2"
   },
   "GS": {
     "date": "2026-10-13",
