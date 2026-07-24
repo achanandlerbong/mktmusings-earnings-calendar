@@ -1,0 +1,515 @@
+{
+  "2382.HK": {
+    "date": "2026-08-25",
+    "period_end": "2026-06-30",
+    "quarter": "FY26H1",
+    "updated_at": "2026-06-12T02:38:19"
+  },
+  "2498.HK": {
+    "date": "2026-08-13",
+    "period_end": "2026-06-30",
+    "quarter": "FY26H1",
+    "updated_at": "2026-06-24T02:35:27"
+  },
+  "AAOI": {
+    "date": "2026-08-06",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-08T08:39:18"
+  },
+  "AAPL": {
+    "date": "2026-07-30",
+    "period_end": "2026-06-29",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-05-01T08:41:07"
+  },
+  "ACN": {
+    "date": "2026-09-24",
+    "period_end": "2026-08-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-06-19T02:32:32"
+  },
+  "AIXTRON": {
+    "date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-20T02:33:35",
+    "source": "https://www.aixtron.com/investoren/publikationen/2026/englisch/3-Months-Report-2026.pdf"
+  },
+  "AKAM": {
+    "date": "2026-08-11",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-13T02:39:15"
+  },
+  "AMBA": {
+    "date": "2026-09-01",
+    "period_end": "2026-07-31",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-06-14T02:32:26"
+  },
+  "AMD": {
+    "date": "2026-08-04",
+    "period_end": "2026-06-29",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-06T02:30:00"
+  },
+  "AMSSY": {
+    "date": "2026-08-04",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-06-12T02:38:17"
+  },
+  "AMZN": {
+    "date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-04-30T02:45:00"
+  },
+  "ARM": {
+    "date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-07-20T02:33:36",
+    "source": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-first-quarter-fiscal-year-ended-2027"
+  },
+  "AVGO": {
+    "date": "2026-09-02",
+    "period_end": "2026-08-02",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-06-07T02:37:47"
+  },
+  "BE": {
+    "date": "2026-07-28",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:32:08",
+    "source": "https://www.businesswire.com/news/home/20260706169350/en/Bloom-Energy-to-Announce-Second-Quarter-2026-Financial-Results-on-July-28-2026"
+  },
+  "BKR": {
+    "date": "2026-07-26",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:32:09",
+    "source": "https://www.globenewswire.com/news-release/2026/06/26/3318127/0/en/Baker-Hughes-Announces-Dates-for-Second-Quarter-Earnings-Release-and-Webcast.html"
+  },
+  "CLS": {
+    "date": "2026-07-27",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:32:11",
+    "source": "https://www.globenewswire.com/news-release/2026/07/06/3322754/0/en/celestica-q2-2026-financial-results-and-conference-call-tuesday-july-28-2026.html"
+  },
+  "CMG": {
+    "date": "2026-07-29",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-01T02:45:00"
+  },
+  "COHR": {
+    "date": "2026-08-12",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-05-14T02:30:00"
+  },
+  "COIN": {
+    "date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-09T02:30:00"
+  },
+  "CRCL": {
+    "date": "2026-08-11",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-14T02:30:00"
+  },
+  "CRUS": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-28",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-06-17T03:11:06"
+  },
+  "CRWV": {
+    "date": "2026-08-18",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-09T02:30:00"
+  },
+  "DDOG": {
+    "date": "2026-08-06",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-09T02:30:00"
+  },
+  "DGX": {
+    "date": "2026-07-23",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:32:12",
+    "source": "https://newsroom.questdiagnostics.com/2026-06-17-Quest-Diagnostics-to-Release-Second-Quarter-Financial-Results-on-July-23,-2026"
+  },
+  "DOCU": {
+    "date": "2026-09-03",
+    "period_end": "2026-07-31",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-06-07T02:38:36"
+  },
+  "EE": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://www.businesswire.com/news/home/20260707429992/en/Excelerate-Energy-Announces-Second-Quarter-2026-Earnings-Conference-Call-Date",
+    "updated_at": "2026-07-09T02:31:42"
+  },
+  "ENPH": {
+    "date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-20T02:33:38",
+    "source": "https://www.msn.com/en-us/money/markets/enphase-energy-to-report-q3-earnings-amid-soft-solar-demand/ar-AA1PhO4M"
+  },
+  "EPD": {
+    "date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-17T02:32:46",
+    "source": "https://ir.enterpriseproducts.com/press-releases"
+  },
+  "ET": {
+    "date": "2026-08-04",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://www.businesswire.com/news/home/20260630868795/en/Energy-Transfer-Announces-Second-Quarter-2026-Earnings-Release-and-Earnings-Call-Timing",
+    "updated_at": "2026-07-01T02:46:14"
+  },
+  "FLNG": {
+    "date": "2026-08-28",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://www.tipranks.com/stocks/flng/earnings",
+    "updated_at": "2026-07-03T02:30:00"
+  },
+  "FMCC": {
+    "date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-07T02:30:00"
+  },
+  "FNMA": {
+    "date": "2026-08-04",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-11T07:52:41"
+  },
+  "FRMI": {
+    "date": "2026-08-13",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://www.marketbeat.com/stocks/NASDAQ/FRMI/earnings/",
+    "updated_at": "2026-06-28T02:31:47"
+  },
+  "GLNG": {
+    "date": "2026-08-13",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://www.stocktitan.net/news/GLNG/golar-lng-limited-q2-2026-results-9p99b4ajrxa1.html",
+    "updated_at": "2026-07-03T02:30:00"
+  },
+  "GOOGL": {
+    "date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:32:14",
+    "source": "https://www.financecalendar.com/event/googl-earnings-july-2026/"
+  },
+  "GS": {
+    "date": "2026-10-13",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-18T02:33:24",
+    "source": "https://www.goldmansachs.com/pressroom/press-releases/2025/conference-call-dates-to-announce-4q25-and-2026-earnings-results"
+  },
+  "HSAI": {
+    "date": "2026-08-14",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-20T02:33:40",
+    "source": "https://www.nasdaq.com/press-release/hesai-group-reports-second-quarter-2025-unaudited-financial-results-2025-08-14"
+  },
+  "IFNNY": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-05-17T20:14:34"
+  },
+  "INTC": {
+    "date": "2026-07-23",
+    "period_end": "2026-06-29",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:33:15",
+    "source": "https://www.intc.com/news-events/press-releases/detail/1774/intel-to-report-second-quarter-2026-financial-results"
+  },
+  "IREN": {
+    "date": "2026-08-27",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-05-14T02:30:00"
+  },
+  "JPM": {
+    "date": "2026-10-13",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-17T02:32:53",
+    "source": "https://www.marketbeat.com/stocks/NYSE/JPM/earnings/"
+  },
+  "KMI": {
+    "date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:33:16",
+    "source": "https://ir.kindermorgan.com/news/news-details/2026/Kinder-Morgan-Announces-Second-Quarter-26-Earnings-Webcast/default.aspx"
+  },
+  "LEU": {
+    "date": "2026-08-04",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-19T02:35:55"
+  },
+  "LH": {
+    "date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://www.stocktitan.net/news/LH/labcorp-to-announce-second-quarter-2026-financial-results-on-july-30-v7o6ewh76bav.html",
+    "updated_at": "2026-07-14T02:31:51"
+  },
+  "LITE": {
+    "date": "2026-08-11",
+    "period_end": "2026-06-28",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-05-06T02:30:00"
+  },
+  "LLY": {
+    "date": "2026-08-06",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-01T02:45:00"
+  },
+  "LNG": {
+    "date": "2026-08-06",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://www.nextearningsdate.com/cheniere-energy.html",
+    "updated_at": "2026-07-03T02:30:00"
+  },
+  "MDTKF": {
+    "date": "2026-08-10",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-01T02:45:00"
+  },
+  "META": {
+    "date": "2026-07-29",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-04-30T02:45:00"
+  },
+  "MPWR": {
+    "date": "2026-08-03",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-17T20:15:45"
+  },
+  "MSFT": {
+    "date": "2026-07-29",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-04-30T02:45:00"
+  },
+  "MU": {
+    "date": "2026-09-29",
+    "period_end": "2026-08-28",
+    "quarter": "FY26Q4",
+    "source": "https://investors.micron.com/",
+    "updated_at": "2026-06-27T02:33:31"
+  },
+  "NBIS": {
+    "date": "2026-07-29",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-01T02:45:00"
+  },
+  "NEXT": {
+    "date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-22T02:34:33",
+    "source": "https://www.marketbeat.com/stocks/NASDAQ/NEXT/earnings"
+  },
+  "NFE": {
+    "date": "2026-08-13",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-20T02:33:43",
+    "source": "https://seekingalpha.com/symbol/NFE/earnings"
+  },
+  "NOVT": {
+    "date": "2026-08-11",
+    "period_end": "2026-07-03",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-06-14T02:32:31"
+  },
+  "NOW": {
+    "date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:33:18",
+    "source": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-to-Announce-Second-Quarter-2026-Financial-Results-on-July-22/default.aspx"
+  },
+  "NVDA": {
+    "date": "2026-08-26",
+    "period_end": "2026-07-26",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-05-21T02:31:07"
+  },
+  "NVO": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-07T02:30:00"
+  },
+  "NVTS": {
+    "date": "2026-08-03",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-17T20:14:08"
+  },
+  "ON": {
+    "date": "2026-08-03",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-17T20:15:16"
+  },
+  "ORCL": {
+    "date": "2026-09-14",
+    "period_end": "2026-08-31",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-06-12T02:38:14"
+  },
+  "OUST": {
+    "date": "2026-08-06",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-06-12T02:38:18"
+  },
+  "POWI": {
+    "date": "2026-08-06",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-15T02:34:57"
+  },
+  "QCOM": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-29",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-05-02T02:31:42"
+  },
+  "RIVN": {
+    "date": "2026-08-04",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-01T02:45:00"
+  },
+  "SEDG": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-18T02:34:54"
+  },
+  "SHOP": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-20T02:33:41",
+    "source": "https://www.globenewswire.com/news-release/2026/07/08/3323954/0/en/Shopify-to-Announce-Second-Quarter-2026-Financial-Results.html"
+  },
+  "SNDK": {
+    "date": "2026-08-13",
+    "period_end": "2026-07-03",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-05-01T02:45:00"
+  },
+  "SNOW": {
+    "date": "2026-08-26",
+    "period_end": "2026-07-31",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-06-03T00:00:00"
+  },
+  "STM": {
+    "date": "2026-10-22",
+    "period_end": "2026-09-26",
+    "quarter": "FY26Q3",
+    "source": "https://www.ideal-investisseur.fr/en/stock-calendar/stmicroelectronics-NL0000226223.html",
+    "updated_at": "2026-07-15T02:35:27"
+  },
+  "STX": {
+    "date": "2026-07-28",
+    "period_end": "2026-06-28",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-07-18T02:34:15",
+    "source": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-to-Report-Fiscal-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results-on-July-28-2026/default.aspx"
+  },
+  "TER": {
+    "date": "2026-07-28",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:33:19",
+    "source": "https://investors.teradyne.com/news-events/ir-calendar"
+  },
+  "TSLA": {
+    "date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-18T02:33:21",
+    "source": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments"
+  },
+  "TSM": {
+    "date": "2026-10-15",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-17T02:32:58",
+    "source": "https://www.wallstreethorizon.com/taiwan-semiconductor-earnings-calendar"
+  },
+  "UBER": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-05-07T02:30:00"
+  },
+  "V": {
+    "date": "2026-07-28",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-18T02:33:22",
+    "source": "https://investor.visa.com/news/news-details/2026/Visa-to-Announce-Fiscal-Third-Quarter-2026-Financial-Results-on-July-28-2026/default.aspx"
+  },
+  "VG": {
+    "date": "2026-08-11",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "source": "https://public.com/stocks/vg/earnings",
+    "updated_at": "2026-07-03T02:30:00"
+  },
+  "WDC": {
+    "date": "2026-08-05",
+    "period_end": "2026-07-03",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-05-01T02:45:00"
+  },
+  "WOLF": {
+    "date": "2026-08-19",
+    "period_end": "2026-06-28",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-05-17T20:16:05"
+  }
+}
