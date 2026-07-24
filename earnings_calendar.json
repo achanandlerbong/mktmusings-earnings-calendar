@@ -362,11 +362,13 @@
     "updated_at": "2026-06-14T02:32:31"
   },
   "NOW": {
-    "date": "2026-07-22",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-18T02:33:18",
-    "source": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-to-Announce-Second-Quarter-2026-Financial-Results-on-July-22/default.aspx"
+    "date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-24T02:32:52",
+    "source": "https://www.tipranks.com/stocks/now/earnings",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2"
   },
   "NVDA": {
     "date": "2026-08-26",
