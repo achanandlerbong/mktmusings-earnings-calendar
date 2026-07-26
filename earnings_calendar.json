@@ -268,11 +268,13 @@
     "source": "https://www.marketbeat.com/stocks/NYSE/JPM/earnings/"
   },
   "KMI": {
-    "date": "2026-07-22",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-18T02:33:16",
-    "source": "https://ir.kindermorgan.com/news/news-details/2026/Kinder-Morgan-Announces-Second-Quarter-26-Earnings-Webcast/default.aspx"
+    "date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-26T02:41:58",
+    "source": "https://www.benzinga.com/news/26/07/60626573/kinder-morgan-reports-q2-2026-results-full-earnings-call-transcript",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2"
   },
   "LEU": {
     "date": "2026-08-04",
