@@ -553,5 +553,12 @@
     "quarter": "FY26Q2",
     "updated_at": "2026-07-26T02:42:06",
     "source": "https://www.stocktitan.net/news/FSLY/fastly-to-announce-second-quarter-2026-financial-6mgjjg3p2t4h.html"
+  },
+  "COST": {
+    "date": "2026-09-24",
+    "period_end": "2026-08-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-07-26T02:42:07",
+    "source": "https://marketchameleon.com/Overview/COST/Earnings/Earnings-Dates/"
   }
 }
