@@ -532,5 +532,12 @@
     "quarter": "FY26Q2",
     "updated_at": "2026-07-24T02:33:22",
     "source": "https://finance.yahoo.com/markets/stocks/articles/spacex-sets-date-maiden-earnings-204821563.html"
+  },
+  "NET": {
+    "date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-26T02:42:03",
+    "source": "https://www.nasdaq.com/market-activity/stocks/net/earnings"
   }
 }
