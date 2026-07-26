@@ -393,10 +393,11 @@
     "last_report_quarter": "FY26Q2"
   },
   "NVTS": {
-    "date": "2026-08-03",
+    "date": "2026-07-27",
     "period_end": "2026-06-30",
     "quarter": "FY26Q2",
-    "updated_at": "2026-05-17T20:14:08"
+    "updated_at": "2026-07-26T02:42:23",
+    "source": "https://ir.navitassemi.com/financial-information/quarterly-results"
   },
   "ON": {
     "date": "2026-08-03",
