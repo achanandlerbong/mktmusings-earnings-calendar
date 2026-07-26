@@ -240,10 +240,13 @@
     "source": "https://www.nasdaq.com/press-release/hesai-group-reports-second-quarter-2025-unaudited-financial-results-2025-08-14"
   },
   "IFNNY": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-05-17T20:14:34"
+    "date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-07-26T02:42:01",
+    "source": "https://www.infineon.com/about/investor",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q3"
   },
   "INTC": {
     "date": "2026-10-22",
