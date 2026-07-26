@@ -546,5 +546,12 @@
     "quarter": "FY26Q2",
     "updated_at": "2026-07-26T02:42:04",
     "source": "https://www.nasdaq.com/market-activity/stocks/corz/earnings"
+  },
+  "FSLY": {
+    "date": "2026-08-05",
+    "period_end": "2026-06-30",
+    "quarter": "FY26Q2",
+    "updated_at": "2026-07-26T02:42:06",
+    "source": "https://www.stocktitan.net/news/FSLY/fastly-to-announce-second-quarter-2026-financial-6mgjjg3p2t4h.html"
   }
 }
