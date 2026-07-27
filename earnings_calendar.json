@@ -485,11 +485,13 @@
     "source": "https://investors.teradyne.com/news-events/ir-calendar"
   },
   "TSLA": {
-    "date": "2026-07-22",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-26T02:46:20",
-    "source": "https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments"
+    "date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-27T02:39:37",
+    "source": "https://www.tipranks.com/stocks/tsla/earnings",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2"
   },
   "TSM": {
     "date": "2026-10-15",
