@@ -433,10 +433,11 @@
     "updated_at": "2026-05-02T02:31:42"
   },
   "RIVN": {
-    "date": "2026-08-04",
+    "date": "2026-07-30",
     "period_end": "2026-06-30",
     "quarter": "FY26Q2",
-    "updated_at": "2026-05-01T02:45:00"
+    "updated_at": "2026-07-27T02:40:29",
+    "source": "https://www.businesswire.com/news/home/20260702205746/en/Rivian-Releases-Q2-2026-Production-and-Delivery-Figures"
   },
   "SEDG": {
     "date": "2026-08-05",
