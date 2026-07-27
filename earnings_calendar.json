@@ -588,5 +588,12 @@
     "quarter": "FY26Q2",
     "updated_at": "2026-07-27T02:40:34",
     "source": "https://www.twilio.com/en-us/press/releases/Q2-2026-announcement"
+  },
+  "WMT": {
+    "date": "2026-08-20",
+    "period_end": "2026-07-31",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-07-27T02:40:36",
+    "source": "https://corporate.walmart.com/news/events/fy2027-q2-earnings-release"
   }
 }
