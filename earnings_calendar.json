@@ -574,5 +574,12 @@
     "quarter": "FY26Q4",
     "updated_at": "2026-07-27T02:40:31",
     "source": "https://www.businesswire.com/news/home/20260714408420/en/Atlassian-Announces-Date-for-Fourth-Quarter-and-Fiscal-Year-2026-Financial-Results"
+  },
+  "TGT": {
+    "date": "2026-08-19",
+    "period_end": "2026-07-31",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-07-27T02:40:33",
+    "source": "https://www.nasdaq.com/market-activity/stocks/tgt/earnings"
   }
 }
