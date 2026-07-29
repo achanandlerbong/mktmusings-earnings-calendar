@@ -128,10 +128,13 @@
     "updated_at": "2026-05-14T02:30:00"
   },
   "CRUS": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-28",
-    "quarter": "FY27Q1",
-    "updated_at": "2026-06-17T03:11:06"
+    "date": "2026-08-04",
+    "period_end": "2026-09-28",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-07-29T02:52:56",
+    "source": "https://www.nasdaq.com/market-activity/stocks/crus/earnings",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY27Q1"
   },
   "CRWV": {
     "date": "2026-08-18",
