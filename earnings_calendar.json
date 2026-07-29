@@ -203,10 +203,11 @@
     "updated_at": "2026-05-07T02:30:00"
   },
   "FNMA": {
-    "date": "2026-08-04",
+    "date": "2026-07-29",
     "period_end": "2026-06-30",
     "quarter": "FY26Q2",
-    "updated_at": "2026-05-11T07:52:41"
+    "updated_at": "2026-07-29T02:53:01",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/fannie-mae-plans-report-second-120000950.html"
   },
   "FRMI": {
     "date": "2026-08-13",
