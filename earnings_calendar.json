@@ -450,11 +450,13 @@
     "source": "https://investors.power.com/news/news-details/2026/Power-Integrations-to-Announce-Second-Quarter-Financial-Results-on-August-5th-2026/default.aspx"
   },
   "QCOM": {
-    "date": "2026-07-29",
-    "period_end": "2026-06-29",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-07-29T02:53:02",
-    "source": "https://investor.qualcomm.com/overview/default.aspx"
+    "date": "2026-11-11",
+    "period_end": "2026-09-29",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-07-30T02:41:01",
+    "source": "https://investor.qualcomm.com/",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q3"
   },
   "RIVN": {
     "date": "2026-07-30",
