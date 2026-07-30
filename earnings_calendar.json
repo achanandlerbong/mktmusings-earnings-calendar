@@ -80,11 +80,13 @@
     "updated_at": "2026-06-07T02:37:47"
   },
   "BE": {
-    "date": "2026-07-28",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-29T02:50:38",
-    "source": "https://www.nasdaq.com/market-activity/stocks/be/earnings"
+    "date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-30T02:40:50",
+    "source": "https://investor.bloomenergy.com/",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q2"
   },
   "BKR": {
     "date": "2026-07-26",
