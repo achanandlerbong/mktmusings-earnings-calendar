@@ -49,10 +49,13 @@
     "updated_at": "2026-06-14T02:32:26"
   },
   "AMD": {
-    "date": "2026-08-04",
-    "period_end": "2026-06-29",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-05-06T02:30:00"
+    "date": "2026-11-02",
+    "period_end": "2026-09-29",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-30T02:40:53",
+    "source": "https://www.wallstreethorizon.com/amd-earnings-calendar",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "AMSSY": {
     "date": "2026-08-04",
