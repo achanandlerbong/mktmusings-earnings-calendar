@@ -96,11 +96,13 @@
     "source": "https://www.tipranks.com/stocks/bkr/earnings"
   },
   "CLS": {
-    "date": "2026-07-27",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-29T02:50:41",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/celestica-announces-second-quarter-2026-203800935.html"
+    "date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-30T02:40:52",
+    "source": "https://corporate.celestica.com/quarterly-results",
+    "last_report_date": "2026-07-27",
+    "last_report_quarter": "FY26Q2"
   },
   "CMG": {
     "date": "2026-07-29",
