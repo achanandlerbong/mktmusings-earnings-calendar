@@ -416,11 +416,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "NVTS": {
-    "date": "2026-07-27",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-29T02:50:45",
-    "source": "https://www.nasdaq.com/market-activity/stocks/nvts/earnings"
+    "date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-30T02:41:00",
+    "source": "https://public.com/stocks/nvts/earnings",
+    "last_report_date": "2026-07-27",
+    "last_report_quarter": "FY26Q2"
   },
   "ON": {
     "date": "2026-08-03",
