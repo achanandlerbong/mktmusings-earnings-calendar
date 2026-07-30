@@ -350,10 +350,13 @@
     "updated_at": "2026-05-17T20:15:45"
   },
   "MSFT": {
-    "date": "2026-07-29",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-04-30T02:45:00"
+    "date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-07-30T02:40:58",
+    "source": "https://www.tipranks.com/stocks/msft/earnings",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q4"
   },
   "MU": {
     "date": "2026-09-29",
