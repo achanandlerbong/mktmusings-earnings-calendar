@@ -335,10 +335,13 @@
     "updated_at": "2026-05-01T02:45:00"
   },
   "META": {
-    "date": "2026-07-29",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-04-30T02:45:00"
+    "date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-07-30T02:40:57",
+    "source": "https://www.nasdaq.com/market-activity/stocks/meta/earnings",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2"
   },
   "MPWR": {
     "date": "2026-08-03",
