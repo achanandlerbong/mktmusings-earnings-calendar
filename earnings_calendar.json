@@ -67,10 +67,13 @@
     "updated_at": "2026-06-12T02:38:17"
   },
   "AMZN": {
-    "date": "2026-07-30",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-04-30T02:45:00"
+    "date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-03T02:35:26",
+    "source": "finbox.com",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "ARM": {
     "date": "2026-11-04",
