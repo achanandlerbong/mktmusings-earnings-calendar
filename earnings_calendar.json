@@ -18,10 +18,13 @@
     "updated_at": "2026-05-08T08:39:18"
   },
   "AAPL": {
-    "date": "2026-07-30",
-    "period_end": "2026-06-29",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-05-01T08:41:07"
+    "date": "2026-10-29",
+    "period_end": "2026-09-29",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-08-03T02:35:25",
+    "source": "tipranks.com",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q3"
   },
   "ACN": {
     "date": "2026-09-24",
