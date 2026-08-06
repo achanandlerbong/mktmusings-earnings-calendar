@@ -61,10 +61,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "AMSSY": {
-    "date": "2026-08-04",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-06-12T02:38:17"
+    "date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-06T02:36:18",
+    "source": "https://www.marketscreener.com/news/ams-osram-ag-provides-earnings-guidance-for-the-third-quarter-of-2026-reaffirms-earnings-guidance-f-ce7f50ded188f120",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "AMZN": {
     "date": "2026-10-22",
