@@ -170,11 +170,13 @@
     "updated_at": "2026-05-09T02:30:00"
   },
   "DGX": {
-    "date": "2026-07-23",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-29T02:50:43",
-    "source": "https://www.tipranks.com/stocks/dgx/earnings"
+    "date": "2026-10-20",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-06T02:36:21",
+    "source": "https://www.nasdaq.com/market-activity/stocks/dgx/earnings",
+    "last_report_date": "2026-07-23",
+    "last_report_quarter": "FY26Q2"
   },
   "DOCU": {
     "date": "2026-09-03",
