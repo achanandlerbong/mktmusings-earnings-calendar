@@ -345,10 +345,13 @@
     "updated_at": "2026-07-03T02:30:00"
   },
   "MDTKF": {
-    "date": "2026-08-10",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-05-01T02:45:00"
+    "date": "2026-10-30",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-06T02:41:23",
+    "source": "https://www.investing.com/equities/mediatek-earnings",
+    "last_report_date": "2026-08-10",
+    "last_report_quarter": "FY26Q2"
   },
   "META": {
     "date": "2026-10-28",
