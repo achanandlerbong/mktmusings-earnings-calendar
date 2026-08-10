@@ -232,11 +232,13 @@
     "updated_at": "2026-05-07T02:30:00"
   },
   "FNMA": {
-    "date": "2026-07-29",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-29T02:53:01",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/fannie-mae-plans-report-second-120000950.html"
+    "date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-10T02:51:50",
+    "source": "https://www.gurufocus.com/news/3164998/fannie-mae-fnma-set-for-q3-earnings-announcement",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2"
   },
   "FRMI": {
     "date": "2026-08-13",
