@@ -492,11 +492,13 @@
     "last_report_quarter": "FY26Q3"
   },
   "RIVN": {
-    "date": "2026-07-30",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-27T02:40:29",
-    "source": "https://www.businesswire.com/news/home/20260702205746/en/Rivian-Releases-Q2-2026-Production-and-Delivery-Figures"
+    "date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-10T03:01:20",
+    "source": "https://www.tipranks.com/stocks/rivn/earnings",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "SEDG": {
     "date": "2026-08-04",
