@@ -606,11 +606,13 @@
     "updated_at": "2026-05-17T20:16:05"
   },
   "SPCX": {
-    "date": "2026-08-04",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-24T02:33:22",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/spacex-sets-date-maiden-earnings-204821563.html"
+    "date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-12T02:42:44",
+    "source": "https://www.wallstreethorizon.com/spacex-earnings-calendar",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "NET": {
     "date": "2026-08-06",
