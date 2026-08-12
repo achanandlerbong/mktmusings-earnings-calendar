@@ -172,10 +172,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "DDOG": {
-    "date": "2026-08-06",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-05-09T02:30:00"
+    "date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-12T02:42:33",
+    "source": "https://www.investing.com/equities/datadog-inc-earnings",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "DGX": {
     "date": "2026-10-20",
