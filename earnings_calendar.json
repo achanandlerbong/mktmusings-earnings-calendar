@@ -443,11 +443,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "NOVT": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-08-10T03:01:18",
-    "source": "https://www.stocktitan.net/news/NOVT/novanta-inc-announces-schedule-of-second-quarter-2026-earnings-4brmuc29dn0i.html"
+    "date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-13T02:50:25",
+    "source": "https://finance.yahoo.com/quote/NOVT/ (estimated, not officially confirmed)",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "NOW": {
     "date": "2026-10-28",
