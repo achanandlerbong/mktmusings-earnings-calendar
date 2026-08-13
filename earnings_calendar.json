@@ -703,10 +703,12 @@
     "source": "https://corporate.walmart.com/news/events/fy2027-q2-earnings-release"
   },
   "WULF": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-27T02:40:38",
-    "source": "https://www.stocktitan.net/news/WULF/tera-wulf-schedules-conference-call-for-second-quarter-2026-yd4vrehmiv7d.html"
+    "date": "2026-11-09",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-13T02:52:09",
+    "source": "https://www.gurufocus.com/news/3195653/terawulf-wulf-prepares-for-q3-earnings-announcement",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   }
 }
