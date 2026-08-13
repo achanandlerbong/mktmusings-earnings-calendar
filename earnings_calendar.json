@@ -483,10 +483,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "ON": {
-    "date": "2026-08-03",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-05-17T20:15:16"
+    "date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-13T02:50:22",
+    "source": "https://www.nasdaq.com/market-activity/stocks/on/earnings",
+    "last_report_date": "2026-08-03",
+    "last_report_quarter": "FY26Q2"
   },
   "ORCL": {
     "date": "2026-09-14",
