@@ -603,11 +603,13 @@
     "updated_at": "2026-05-07T02:30:00"
   },
   "V": {
-    "date": "2026-07-28",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-07-30T02:44:13",
-    "source": "https://investor.visa.com/financial-information/quarterly-earnings"
+    "date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-08-13T02:50:23",
+    "source": "https://www.investing.com/equities/visa-inc-earnings",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q3"
   },
   "VG": {
     "date": "2026-08-11",
