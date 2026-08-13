@@ -210,11 +210,13 @@
     "source": "https://www.msn.com/en-us/money/markets/enphase-energy-to-report-q3-earnings-amid-soft-solar-demand/ar-AA1PhO4M"
   },
   "EPD": {
-    "date": "2026-07-30",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-17T02:32:46",
-    "source": "https://ir.enterpriseproducts.com/press-releases"
+    "date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-13T02:49:33",
+    "source": "https://stockinvest.us/earnings-report/EPD",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "ET": {
     "date": "2026-08-04",
