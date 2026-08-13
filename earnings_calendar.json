@@ -393,10 +393,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "MPWR": {
-    "date": "2026-08-03",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-05-17T20:15:45"
+    "date": "2026-10-30",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-13T02:49:37",
+    "source": "https://marketchameleon.com/Overview/MPWR/Earnings/Earnings-Dates/",
+    "last_report_date": "2026-08-03",
+    "last_report_quarter": "FY26Q2"
   },
   "MSFT": {
     "date": "2026-10-27",
