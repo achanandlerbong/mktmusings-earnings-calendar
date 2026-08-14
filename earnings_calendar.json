@@ -625,10 +625,13 @@
     "updated_at": "2026-07-03T02:30:00"
   },
   "WDC": {
-    "date": "2026-08-05",
-    "period_end": "2026-07-03",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-05-01T02:45:00"
+    "date": "2026-10-22",
+    "period_end": "2026-10-03",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-08-14T02:37:49",
+    "source": "https://www.tipranks.com/stocks/wdc/earnings",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q4"
   },
   "WOLF": {
     "date": "2026-08-19",
