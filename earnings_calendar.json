@@ -626,11 +626,13 @@
     "last_report_quarter": "FY26Q3"
   },
   "VG": {
-    "date": "2026-08-11",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "source": "https://public.com/stocks/vg/earnings",
-    "updated_at": "2026-07-03T02:30:00"
+    "date": "2026-11-09",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-14T02:38:37",
+    "source": "https://www.nasdaq.com/market-activity/stocks/vg/earnings [aggregator estimate, not officially confirmed]",
+    "last_report_date": "2026-08-11",
+    "last_report_quarter": "FY26Q2"
   },
   "WDC": {
     "date": "2026-10-22",
