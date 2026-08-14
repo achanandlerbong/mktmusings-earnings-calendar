@@ -147,11 +147,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "CRCL": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-08-10T02:39:27",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001876042/000187604226000246/crcl-20260805.htm"
+    "date": "2026-11-11",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-14T02:37:42",
+    "source": "https://marketchameleon.com/Overview/CRCL/Earnings/Earnings-Dates/",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "CRUS": {
     "date": "2026-08-04",
