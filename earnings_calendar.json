@@ -645,11 +645,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "NET": {
-    "date": "2026-08-06",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-08-10T02:54:49",
-    "source": "https://www.businesswire.com/news/home/20260806407787/en/Cloudflare-Announces-Second-Quarter-2026-Financial-Results"
+    "date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-14T02:37:44",
+    "source": "https://www.nasdaq.com/market-activity/stocks/net/earnings",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "CORZ": {
     "date": "2026-10-23",
