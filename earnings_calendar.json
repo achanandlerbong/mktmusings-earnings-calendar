@@ -603,10 +603,13 @@
     "source": "https://www.wallstreethorizon.com/taiwan-semiconductor-earnings-calendar"
   },
   "UBER": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-05-07T02:30:00"
+    "date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-14T02:38:31",
+    "source": "https://www.tipranks.com/stocks/uber/earnings [aggregator estimate, not officially confirmed]",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "V": {
     "date": "2026-11-03",
