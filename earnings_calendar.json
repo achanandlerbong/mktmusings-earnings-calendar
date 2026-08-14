@@ -542,11 +542,13 @@
     "source": "https://www.investing.com/equities/solaredge-technologies-inc-earnings"
   },
   "SHOP": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-20T02:33:41",
-    "source": "https://www.globenewswire.com/news-release/2026/07/08/3323954/0/en/Shopify-to-Announce-Second-Quarter-2026-Financial-Results.html"
+    "date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-14T02:38:33",
+    "source": "https://www.tipranks.com/stocks/shop/earnings [aggregator estimate, not officially confirmed]",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "SNDK": {
     "date": "2026-11-05",
