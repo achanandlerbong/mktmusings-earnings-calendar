@@ -697,11 +697,13 @@
     "source": "https://www.nasdaq.com/market-activity/stocks/tgt/earnings"
   },
   "TWLO": {
-    "date": "2026-08-06",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-27T02:40:34",
-    "source": "https://www.twilio.com/en-us/press/releases/Q2-2026-announcement"
+    "date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-14T02:37:47",
+    "source": "https://investors.twilio.com/",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "WMT": {
     "date": "2026-08-20",
