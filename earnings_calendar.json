@@ -253,11 +253,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "FRMI": {
-    "date": "2026-08-13",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-08-12T02:42:38",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/fermi-announces-second-quarter-2026-earnings-release-and-call-date"
+    "date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-14T02:37:46",
+    "source": "https://www.marketbeat.com/stocks/NASDAQ/FRMI/earnings/",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q2"
   },
   "GLNG": {
     "date": "2026-08-13",
