@@ -132,10 +132,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "COHR": {
-    "date": "2026-08-12",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-05-14T02:30:00"
+    "date": "2026-11-11",
+    "period_end": "2026-09-30",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-08-15T02:35:05",
+    "source": "https://www.tipranks.com/stocks/cohr/earnings",
+    "last_report_date": "2026-08-12",
+    "last_report_quarter": "FY26Q4"
   },
   "COIN": {
     "date": "2026-10-30",
