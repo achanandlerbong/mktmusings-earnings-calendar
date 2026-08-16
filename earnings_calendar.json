@@ -571,10 +571,11 @@
     "last_report_quarter": "FY26Q4"
   },
   "SNOW": {
-    "date": "2026-08-26",
+    "date": "2026-09-02",
     "period_end": "2026-07-31",
     "quarter": "FY27Q2",
-    "updated_at": "2026-06-03T00:00:00"
+    "updated_at": "2026-08-16T02:36:09",
+    "source": "https://www.snowflake.com/en/news/press-releases/snowflake-to-announce-financial-results-for-the-second-quarter-of-fiscal-2027/"
   },
   "STM": {
     "date": "2026-10-22",
