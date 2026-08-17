@@ -324,10 +324,13 @@
     "source": "https://www.investing.com/equities/innio-holding-gmbh-earnings"
   },
   "IREN": {
-    "date": "2026-08-27",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-05-14T02:30:00"
+    "date": "2026-09-16",
+    "period_end": "2026-09-30",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-08-17T02:43:51",
+    "source": "https://www.tipranks.com/stocks/iren/earnings",
+    "last_report_date": "2026-08-27",
+    "last_report_quarter": "FY26Q4"
   },
   "JPM": {
     "date": "2026-10-13",
