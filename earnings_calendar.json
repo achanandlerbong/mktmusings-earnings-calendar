@@ -720,11 +720,13 @@
     "last_report_quarter": "FY26Q4"
   },
   "TGT": {
-    "date": "2026-08-19",
-    "period_end": "2026-07-31",
-    "quarter": "FY27Q2",
-    "updated_at": "2026-08-16T02:36:16",
-    "source": "https://www.barchart.com/story/news/3787654/dear-target-stock-fans-mark-your-calendars-for-august-19"
+    "date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "quarter": "FY27Q3",
+    "updated_at": "2026-08-17T02:43:53",
+    "source": "https://www.tipranks.com/stocks/tgt/earnings",
+    "last_report_date": "2026-08-19",
+    "last_report_quarter": "FY27Q2"
   },
   "TWLO": {
     "date": "2026-10-29",
