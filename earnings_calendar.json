@@ -547,11 +547,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "SEDG": {
-    "date": "2026-08-04",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-29T02:52:59",
-    "source": "https://www.investing.com/equities/solaredge-technologies-inc-earnings"
+    "date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-17T02:34:44",
+    "source": "https://www.tipranks.com/stocks/sedg/earnings",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "SHOP": {
     "date": "2026-10-22",
