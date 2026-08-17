@@ -355,11 +355,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "LH": {
-    "date": "2026-07-30",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "source": "https://www.stocktitan.net/news/LH/labcorp-to-announce-second-quarter-2026-financial-results-on-july-30-v7o6ewh76bav.html",
-    "updated_at": "2026-07-14T02:31:51"
+    "date": "2026-10-30",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-17T02:41:48",
+    "source": "https://investors.labcorp.com/",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "LITE": {
     "date": "2026-11-10",
