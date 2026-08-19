@@ -233,11 +233,11 @@
     "updated_at": "2026-07-01T02:46:14"
   },
   "FLNG": {
-    "date": "2026-08-28",
-    "period_end": "2026-06-30",
+    "date": "2026-08-19",
+    "period_end": null,
     "quarter": "FY26Q2",
-    "source": "https://www.tipranks.com/stocks/flng/earnings",
-    "updated_at": "2026-07-03T02:30:00"
+    "updated_at": "2026-08-19T02:36:18",
+    "source": "https://www.prnewswire.com/news-releases/flex-lng---second-quarter-2026-earnings-release-302854948.html"
   },
   "FMCC": {
     "date": "2026-11-04",
