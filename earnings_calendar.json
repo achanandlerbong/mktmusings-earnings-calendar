@@ -602,11 +602,13 @@
     "last_report_quarter": "FY26Q4"
   },
   "TER": {
-    "date": "2026-07-28",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-30T02:44:12",
-    "source": "https://investors.teradyne.com/financial-results"
+    "date": "2026-10-27",
+    "period_end": "2026-09-27",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-19T02:33:45",
+    "source": "https://www.nasdaq.com/market-activity/stocks/ter/earnings",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q2"
   },
   "TSLA": {
     "date": "2026-10-28",
