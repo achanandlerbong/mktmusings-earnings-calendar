@@ -663,11 +663,13 @@
     "last_report_quarter": "FY26Q4"
   },
   "WOLF": {
-    "date": "2026-08-19",
-    "period_end": "2026-06-28",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-08-16T02:36:19",
-    "source": "https://www.businesswire.com/news/home/20260805577502/en/Wolfspeed-Inc.-Announces-Date-of-Fiscal-Fourth-Quarter-Earnings-Call-for-August-19-2026"
+    "date": "2026-10-28",
+    "period_end": "2026-09-28",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-08-21T02:37:15",
+    "source": "https://public.com",
+    "last_report_date": "2026-08-19",
+    "last_report_quarter": "FY26Q4"
   },
   "SPCX": {
     "date": "2026-11-03",
