@@ -52,10 +52,11 @@
     "source": "https://www.ir.akamai.com/financial-information/quarterly-results"
   },
   "AMBA": {
-    "date": "2026-09-01",
+    "date": "2026-09-03",
     "period_end": "2026-07-31",
     "quarter": "FY27Q2",
-    "updated_at": "2026-06-14T02:32:26"
+    "updated_at": "2026-08-22T02:33:27",
+    "source": "https://www.globenewswire.com/news-release/2026/08/12/3343332/23306/en/ambarella-announces-second-quarter-fiscal-year-2027-earnings-conference-call-to-be-held-september-3-2026.html"
   },
   "AMD": {
     "date": "2026-11-02",
