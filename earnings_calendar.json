@@ -483,11 +483,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "NVDA": {
-    "date": "2026-08-26",
-    "period_end": "2026-07-26",
-    "quarter": "FY27Q2",
-    "updated_at": "2026-08-20T02:33:31",
-    "source": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2026/NVIDIA-2nd-Quarter-FY27-Financial-Results/default.aspx"
+    "date": "2026-11-25",
+    "period_end": "2026-10-26",
+    "quarter": "FY27Q3",
+    "updated_at": "2026-08-27T02:36:54",
+    "source": "https://www.nasdaq.com/market-activity/stocks/nvda/earnings",
+    "last_report_date": "2026-08-26",
+    "last_report_quarter": "FY27Q2"
   },
   "NVO": {
     "date": "2026-11-04",
