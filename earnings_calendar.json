@@ -45,11 +45,13 @@
     "source": "https://www.aixtron.com/investoren/publikationen/2026/englisch/3-Months-Report-2026.pdf"
   },
   "AKAM": {
-    "date": "2026-08-06",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-08-10T02:39:25",
-    "source": "https://www.ir.akamai.com/financial-information/quarterly-results"
+    "date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-08-31T02:37:09",
+    "source": "https://www.tipranks.com/stocks/akam/earnings",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "AMBA": {
     "date": "2026-09-03",
