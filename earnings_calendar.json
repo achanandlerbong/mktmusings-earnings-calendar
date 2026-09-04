@@ -95,11 +95,13 @@
     "source": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-first-quarter-fiscal-year-ended-2027"
   },
   "AVGO": {
-    "date": "2026-09-02",
-    "period_end": "2026-08-03",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-27T02:36:50",
-    "source": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-announce-third-quarter-120000388.html"
+    "date": "2026-12-10",
+    "period_end": "2026-11-03",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-09-04T02:37:22",
+    "source": "https://www.nasdaq.com/market-activity/stocks/avgo/earnings",
+    "last_report_date": "2026-09-02",
+    "last_report_quarter": "FY26Q3"
   },
   "BE": {
     "date": "2026-10-29",
