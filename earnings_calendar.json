@@ -539,11 +539,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "POWI": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "updated_at": "2026-07-29T02:52:58",
-    "source": "https://investors.power.com/news/news-details/2026/Power-Integrations-to-Announce-Second-Quarter-Financial-Results-on-August-5th-2026/default.aspx"
+    "date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-04T02:45:50",
+    "source": "https://www.marketbeat.com/stocks/NASDAQ/POWI/earnings/",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "QCOM": {
     "date": "2026-11-11",
