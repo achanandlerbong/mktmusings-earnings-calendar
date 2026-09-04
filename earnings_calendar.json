@@ -786,10 +786,11 @@
     "source": "https://www.investing.com/equities/caterpillar-earnings (analyst estimate, not yet officially confirmed)"
   },
   "ILMN": {
-    "date": null,
-    "period_end": null,
-    "quarter": null,
-    "updated_at": "2026-09-04T03:21:20"
+    "date": "2026-10-29",
+    "period_end": "2026-09-27",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-04T02:40:41",
+    "source": "https://marketchameleon.com/Overview/ILMN/Earnings/Earnings-Dates/"
   },
   "TMO": {
     "date": null,
