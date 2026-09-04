@@ -523,10 +523,11 @@
     "last_report_quarter": "FY26Q2"
   },
   "ORCL": {
-    "date": "2026-09-14",
+    "date": "2026-09-10",
     "period_end": "2026-08-31",
     "quarter": "FY27Q1",
-    "updated_at": "2026-06-12T02:38:14"
+    "updated_at": "2026-09-04T02:39:23",
+    "source": "https://investor.oracle.com/investor-news/default.aspx"
   },
   "OUST": {
     "date": "2026-11-03",
