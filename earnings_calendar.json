@@ -793,10 +793,11 @@
     "source": "https://marketchameleon.com/Overview/ILMN/Earnings/Earnings-Dates/"
   },
   "TMO": {
-    "date": null,
-    "period_end": null,
-    "quarter": null,
-    "updated_at": "2026-09-04T04:22:57"
+    "date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-04T02:40:43",
+    "source": "https://www.wallstreetzen.com/stocks/us/nyse/tmo/earnings"
   },
   "DHR": {
     "date": "2026-10-27",
