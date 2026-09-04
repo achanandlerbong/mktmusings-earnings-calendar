@@ -798,9 +798,10 @@
     "updated_at": "2026-09-04T04:22:57"
   },
   "DHR": {
-    "date": null,
-    "period_end": null,
-    "quarter": null,
-    "updated_at": "2026-09-04T04:41:37"
+    "date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-04T02:40:40",
+    "source": "https://www.tipranks.com/stocks/dhr/earnings"
   }
 }
