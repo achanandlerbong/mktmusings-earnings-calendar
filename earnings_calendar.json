@@ -754,10 +754,11 @@
     "last_report_quarter": "FY26Q2"
   },
   "TXG": {
-    "date": null,
-    "period_end": null,
-    "quarter": null,
-    "updated_at": "2026-09-02T03:19:55"
+    "date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-04T02:40:38",
+    "source": "https://www.investing.com/equities/10x-genomics-inc-earnings"
   },
   "WMT": {
     "date": "2026-11-19",
