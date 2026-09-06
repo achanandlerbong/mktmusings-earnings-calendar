@@ -203,11 +203,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "DOCU": {
-    "date": "2026-09-03",
-    "period_end": "2026-07-31",
-    "quarter": "FY27Q2",
-    "updated_at": "2026-08-27T02:36:56",
-    "source": "https://www.gurufocus.com/news/9032759/docusign-to-announce-second-quarter-fiscal-2027-financial-results-on-september-3-2026"
+    "date": "2026-12-03",
+    "period_end": "2026-10-31",
+    "quarter": "FY27Q3",
+    "updated_at": "2026-09-06T02:33:46",
+    "source": "https://marketchameleon.com/Overview/DOCU/Earnings/Earnings-Dates/",
+    "last_report_date": "2026-09-03",
+    "last_report_quarter": "FY27Q2"
   },
   "EE": {
     "date": "2026-08-05",
