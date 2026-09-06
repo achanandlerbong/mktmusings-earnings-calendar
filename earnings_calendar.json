@@ -811,5 +811,12 @@
     "quarter": "FY26Q3",
     "updated_at": "2026-09-04T02:40:40",
     "source": "https://www.tipranks.com/stocks/dhr/earnings"
+  },
+  "3008.TW": {
+    "date": "2026-10-08",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-06T02:35:56",
+    "source": "https://www.investing.com/equities/largan-precisi-earnings"
   }
 }
