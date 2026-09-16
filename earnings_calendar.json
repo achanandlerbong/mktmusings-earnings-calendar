@@ -25,10 +25,11 @@
     "last_report_quarter": "FY26Q3"
   },
   "ACN": {
-    "date": "2026-09-24",
+    "date": "2026-10-01",
     "period_end": "2026-08-31",
     "quarter": "FY26Q4",
-    "updated_at": "2026-06-19T02:32:32"
+    "updated_at": "2026-09-16T02:45:55",
+    "source": "https://investor.accenture.com/news-and-events/events-calendar"
   },
   "AIXTRON": {
     "date": "2026-10-29",
