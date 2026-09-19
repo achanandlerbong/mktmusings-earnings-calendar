@@ -206,11 +206,13 @@
     "last_report_quarter": "FY27Q2"
   },
   "EE": {
-    "date": "2026-08-05",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "source": "https://www.businesswire.com/news/home/20260707429992/en/Excelerate-Energy-Announces-Second-Quarter-2026-Earnings-Conference-Call-Date",
-    "updated_at": "2026-07-09T02:31:42"
+    "date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-19T02:34:12",
+    "source": "https://finance.yahoo.com/quote/EE/",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "ENPH": {
     "date": "2026-10-28",
