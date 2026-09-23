@@ -827,5 +827,12 @@
     "quarter": "FY26Q3",
     "updated_at": "2026-09-22T02:35:15",
     "source": "https://marketchameleon.com/Overview/ALAB/Earnings/Earnings-Dates/"
+  },
+  "2498.HK": {
+    "date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-09-23T02:55:41",
+    "source": "https://www.investing.com/equities/htc-corp"
   }
 }
