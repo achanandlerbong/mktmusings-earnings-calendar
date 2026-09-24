@@ -603,11 +603,13 @@
     "updated_at": "2026-08-13T02:50:22"
   },
   "ORCL": {
-    "date": "2026-09-10",
-    "period_end": "2026-08-31",
-    "quarter": "FY27Q1",
-    "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-First-Quarter-Fiscal-Year-2027-Earnings-Announcement/default.aspx",
-    "updated_at": "2026-09-08T02:33:11"
+    "date": "2026-12-14",
+    "period_end": "2026-11-30",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-09-24T02:51:32",
+    "source": "https://www.tipranks.com/stocks/orcl/earnings",
+    "last_report_date": "2026-09-10",
+    "last_report_quarter": "FY27Q1"
   },
   "OUST": {
     "date": "2026-11-03",
