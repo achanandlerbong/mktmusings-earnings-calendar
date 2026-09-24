@@ -3,234 +3,285 @@
     "date": "2026-08-26",
     "period_end": "2026-06-30",
     "quarter": "FY26H1",
-    "updated_at": "2026-08-24T02:34:00",
-    "source": "https://www.tipranks.com/news/company-announcements/sunny-optical-sets-board-meeting-to-approve-interim-results"
+    "source": "https://www.tipranks.com/news/company-announcements/sunny-optical-sets-board-meeting-to-approve-interim-results",
+    "updated_at": "2026-08-24T02:34:00"
+  },
+  "2498.HK": {
+    "date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.investing.com/equities/htc-corp",
+    "updated_at": "2026-09-23T02:55:41"
+  },
+  "3008.TW": {
+    "date": "2026-10-08",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.investing.com/equities/largan-precisi-earnings",
+    "updated_at": "2026-09-06T02:35:56"
   },
   "AAOI": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-10T02:37:47",
     "source": "https://www.nasdaq.com/market-activity/stocks/aaoi/earnings",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-10T02:37:47"
   },
   "AAPL": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q3",
     "period_end": "2026-09-29",
     "quarter": "FY26Q4",
-    "updated_at": "2026-08-03T02:35:25",
     "source": "tipranks.com",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q3"
+    "updated_at": "2026-08-03T02:35:25"
   },
   "ACN": {
     "date": "2026-10-01",
     "period_end": "2026-08-31",
     "quarter": "FY26Q4",
-    "updated_at": "2026-09-16T02:45:55",
-    "source": "https://investor.accenture.com/news-and-events/events-calendar"
+    "source": "https://investor.accenture.com/news-and-events/events-calendar",
+    "updated_at": "2026-09-16T02:45:55"
   },
   "AIXTRON": {
     "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-20T02:33:35",
-    "source": "https://www.aixtron.com/investoren/publikationen/2026/englisch/3-Months-Report-2026.pdf"
+    "source": "https://www.aixtron.com/investoren/publikationen/2026/englisch/3-Months-Report-2026.pdf",
+    "updated_at": "2026-07-20T02:33:35"
   },
   "AKAM": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-31T02:37:09",
     "source": "https://www.tipranks.com/stocks/akam/earnings",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-31T02:37:09"
+  },
+  "ALAB": {
+    "date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://marketchameleon.com/Overview/ALAB/Earnings/Earnings-Dates/",
+    "updated_at": "2026-09-22T02:35:15"
   },
   "AMBA": {
     "date": "2026-12-01",
+    "last_report_date": "2026-09-03",
+    "last_report_quarter": "FY27Q2",
     "period_end": "2026-10-31",
     "quarter": "FY27Q3",
-    "updated_at": "2026-09-23T02:52:18",
     "source": "https://www.tipranks.com/stocks/amba/earnings",
-    "last_report_date": "2026-09-03",
-    "last_report_quarter": "FY27Q2"
+    "updated_at": "2026-09-23T02:52:18"
   },
   "AMD": {
     "date": "2026-11-02",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-29",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-30T02:40:53",
     "source": "https://www.wallstreethorizon.com/amd-earnings-calendar",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-30T02:40:53"
   },
   "AMSSY": {
     "date": "2026-11-12",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-06T02:36:18",
     "source": "https://www.marketscreener.com/news/ams-osram-ag-provides-earnings-guidance-for-the-third-quarter-of-2026-reaffirms-earnings-guidance-f-ce7f50ded188f120",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-06T02:36:18"
   },
   "AMZN": {
     "date": "2026-10-22",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-03T02:35:26",
     "source": "finbox.com",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-03T02:35:26"
   },
   "ARM": {
     "date": "2026-11-04",
     "period_end": "2026-09-30",
     "quarter": "FY27Q2",
-    "updated_at": "2026-07-20T02:33:36",
-    "source": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-first-quarter-fiscal-year-ended-2027"
+    "source": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-first-quarter-fiscal-year-ended-2027",
+    "updated_at": "2026-07-20T02:33:36"
   },
   "AVGO": {
     "date": "2026-12-10",
+    "last_report_date": "2026-09-02",
+    "last_report_quarter": "FY26Q3",
     "period_end": "2026-11-03",
     "quarter": "FY26Q4",
-    "updated_at": "2026-09-04T02:37:22",
     "source": "https://www.nasdaq.com/market-activity/stocks/avgo/earnings",
-    "last_report_date": "2026-09-02",
-    "last_report_quarter": "FY26Q3"
+    "updated_at": "2026-09-04T02:37:22"
   },
   "BE": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-30T02:40:50",
     "source": "https://investor.bloomenergy.com/",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-30T02:40:50"
   },
   "BKR": {
     "date": "2026-10-28",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-06T02:36:20",
-    "source": "https://marketchameleon.com/Overview/BKR/Earnings/Earnings-Dates/",
     "last_report_date": "2026-07-26",
-    "last_report_quarter": "FY26Q2"
-  },
-  "CLS": {
-    "date": "2026-10-26",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-30T02:40:52",
-    "source": "https://corporate.celestica.com/quarterly-results",
-    "last_report_date": "2026-07-27",
-    "last_report_quarter": "FY26Q2"
+    "source": "https://marketchameleon.com/Overview/BKR/Earnings/Earnings-Dates/",
+    "updated_at": "2026-08-06T02:36:20"
   },
-  "CMG": {
-    "date": "2026-10-28",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-03T02:35:28",
-    "source": "tipranks.com",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2"
-  },
-  "COHR": {
-    "date": "2026-11-11",
-    "period_end": "2026-09-30",
-    "quarter": "FY27Q1",
-    "updated_at": "2026-08-15T02:35:05",
-    "source": "https://www.tipranks.com/stocks/cohr/earnings",
-    "last_report_date": "2026-08-12",
-    "last_report_quarter": "FY26Q4"
-  },
-  "COIN": {
-    "date": "2026-10-30",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-07-27T02:38:35",
-    "source": "https://www.tipranks.com/stocks/coin/earnings",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
-  },
-  "CRCL": {
-    "date": "2026-11-11",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:37:42",
-    "source": "https://marketchameleon.com/Overview/CRCL/Earnings/Earnings-Dates/",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
-  },
-  "CRUS": {
-    "date": "2026-08-04",
-    "period_end": "2026-09-28",
-    "quarter": "FY27Q2",
-    "updated_at": "2026-07-29T02:52:56",
-    "source": "https://www.nasdaq.com/market-activity/stocks/crus/earnings",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY27Q1"
-  },
-  "CRWV": {
-    "date": "2026-11-16",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-12T02:42:31",
-    "source": "https://www.tipranks.com/stocks/crwv/earnings",
-    "last_report_date": "2026-08-11",
-    "last_report_quarter": "FY26Q2"
-  },
-  "DDOG": {
-    "date": "2026-11-05",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-12T02:42:33",
-    "source": "https://www.investing.com/equities/datadog-inc-earnings",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
-  },
-  "DGX": {
-    "date": "2026-10-20",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-06T02:36:21",
-    "source": "https://www.nasdaq.com/market-activity/stocks/dgx/earnings",
-    "last_report_date": "2026-07-23",
-    "last_report_quarter": "FY26Q2"
-  },
-  "DOCU": {
-    "date": "2026-12-03",
-    "period_end": "2026-10-31",
-    "quarter": "FY27Q3",
-    "updated_at": "2026-09-06T02:33:46",
-    "source": "https://marketchameleon.com/Overview/DOCU/Earnings/Earnings-Dates/",
-    "last_report_date": "2026-09-03",
-    "last_report_quarter": "FY27Q2"
-  },
-  "EE": {
+  "CAT": {
     "date": "2026-11-04",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-19T02:34:12",
-    "source": "https://finance.yahoo.com/quote/EE/",
+    "source": "https://www.investing.com/equities/caterpillar-earnings (analyst estimate, not yet officially confirmed)",
+    "updated_at": "2026-08-13T02:52:53"
+  },
+  "CLS": {
+    "date": "2026-10-26",
+    "last_report_date": "2026-07-27",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://corporate.celestica.com/quarterly-results",
+    "updated_at": "2026-07-30T02:40:52"
+  },
+  "CMG": {
+    "date": "2026-10-28",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "tipranks.com",
+    "updated_at": "2026-08-03T02:35:28"
+  },
+  "COHR": {
+    "date": "2026-11-11",
+    "last_report_date": "2026-08-12",
+    "last_report_quarter": "FY26Q4",
+    "period_end": "2026-09-30",
+    "quarter": "FY27Q1",
+    "source": "https://www.tipranks.com/stocks/cohr/earnings",
+    "updated_at": "2026-08-15T02:35:05"
+  },
+  "COIN": {
+    "date": "2026-10-30",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.tipranks.com/stocks/coin/earnings",
+    "updated_at": "2026-07-27T02:38:35"
+  },
+  "CORZ": {
+    "date": "2026-10-23",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.nasdaq.com/market-activity/stocks/corz/earnings",
+    "updated_at": "2026-08-14T02:37:40"
+  },
+  "COST": {
+    "date": "2026-09-24",
+    "period_end": "2026-08-31",
+    "quarter": "FY26Q4",
+    "source": "https://www.tipranks.com/news/costco-cost-reports-q4-earnings-on-sept-24-heres-what-analysts-expect",
+    "updated_at": "2026-09-19T02:32:11"
+  },
+  "CRCL": {
+    "date": "2026-11-11",
     "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://marketchameleon.com/Overview/CRCL/Earnings/Earnings-Dates/",
+    "updated_at": "2026-08-14T02:37:42"
+  },
+  "CRUS": {
+    "date": "2026-08-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY27Q1",
+    "period_end": "2026-09-28",
+    "quarter": "FY27Q2",
+    "source": "https://www.nasdaq.com/market-activity/stocks/crus/earnings",
+    "updated_at": "2026-07-29T02:52:56"
+  },
+  "CRWV": {
+    "date": "2026-11-16",
+    "last_report_date": "2026-08-11",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.tipranks.com/stocks/crwv/earnings",
+    "updated_at": "2026-08-12T02:42:31"
+  },
+  "DDOG": {
+    "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.investing.com/equities/datadog-inc-earnings",
+    "updated_at": "2026-08-12T02:42:33"
+  },
+  "DGX": {
+    "date": "2026-10-20",
+    "last_report_date": "2026-07-23",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.nasdaq.com/market-activity/stocks/dgx/earnings",
+    "updated_at": "2026-08-06T02:36:21"
+  },
+  "DHR": {
+    "date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.tipranks.com/stocks/dhr/earnings",
+    "updated_at": "2026-09-04T02:40:40"
+  },
+  "DOCU": {
+    "date": "2026-12-03",
+    "last_report_date": "2026-09-03",
+    "last_report_quarter": "FY27Q2",
+    "period_end": "2026-10-31",
+    "quarter": "FY27Q3",
+    "source": "https://marketchameleon.com/Overview/DOCU/Earnings/Earnings-Dates/",
+    "updated_at": "2026-09-06T02:33:46"
+  },
+  "EE": {
+    "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://finance.yahoo.com/quote/EE/",
+    "updated_at": "2026-09-19T02:34:12"
   },
   "ENPH": {
     "date": "2026-10-28",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-20T02:33:38",
-    "source": "https://www.msn.com/en-us/money/markets/enphase-energy-to-report-q3-earnings-amid-soft-solar-demand/ar-AA1PhO4M"
+    "source": "https://www.msn.com/en-us/money/markets/enphase-energy-to-report-q3-earnings-amid-soft-solar-demand/ar-AA1PhO4M",
+    "updated_at": "2026-07-20T02:33:38"
   },
   "EPD": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-13T02:49:33",
     "source": "https://stockinvest.us/earnings-report/EPD",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-13T02:49:33"
   },
   "ET": {
     "date": "2026-08-04",
@@ -241,369 +292,403 @@
   },
   "FLNG": {
     "date": "2026-11-27",
+    "last_report_date": "2026-08-19",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-22T02:33:25",
     "source": "https://www.flexlng.com/2-stroke-propulsion/financial-calendar/",
-    "last_report_date": "2026-08-19",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-22T02:33:25"
   },
   "FMCC": {
     "date": "2026-11-04",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-12T02:42:46",
     "source": "https://www.tipranks.com/stocks/fmcc/earnings",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-12T02:42:46"
   },
   "FNMA": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-10T02:51:50",
     "source": "https://www.gurufocus.com/news/3164998/fannie-mae-fnma-set-for-q3-earnings-announcement",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-10T02:51:50"
   },
   "FRMI": {
     "date": "2026-11-10",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:37:46",
     "source": "https://www.marketbeat.com/stocks/NASDAQ/FRMI/earnings/",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-14T02:37:46"
+  },
+  "FSLY": {
+    "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.tipranks.com/stocks/fsly/earnings",
+    "updated_at": "2026-08-12T02:42:35"
   },
   "GLNG": {
     "date": "2026-11-11",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-19T02:33:05",
     "source": "https://www.investing.com/equities/golar-lng-ltd-earnings",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-09-19T02:33:05"
   },
   "GOOGL": {
     "date": "2026-10-27",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-24T02:32:53",
     "source": "https://www.tipranks.com/stocks/googl/earnings",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-24T02:32:53"
   },
   "GS": {
     "date": "2026-10-13",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-18T02:33:24",
-    "source": "https://www.goldmansachs.com/pressroom/press-releases/2025/conference-call-dates-to-announce-4q25-and-2026-earnings-results"
+    "source": "https://www.goldmansachs.com/pressroom/press-releases/2025/conference-call-dates-to-announce-4q25-and-2026-earnings-results",
+    "updated_at": "2026-07-18T02:33:24"
   },
   "HSAI": {
     "date": "2026-11-10",
+    "last_report_date": "2026-08-18",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-01T02:43:32",
     "source": "https://marketchameleon.com/Overview/HSAI/Earnings/Earnings-Dates/",
-    "last_report_date": "2026-08-18",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-09-01T02:43:32"
   },
   "IFNNY": {
     "date": "2026-11-10",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q3",
     "period_end": "2026-09-30",
     "quarter": "FY26Q4",
-    "updated_at": "2026-07-26T02:42:01",
     "source": "https://www.infineon.com/about/investor",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q3"
+    "updated_at": "2026-07-26T02:42:01"
   },
-  "INTC": {
-    "date": "2026-10-22",
-    "period_end": "2026-09-30",
+  "ILMN": {
+    "date": "2026-10-29",
+    "period_end": "2026-09-27",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-24T02:32:45",
-    "source": "https://www.tipranks.com/stocks/intc/earnings",
-    "last_report_date": "2026-07-23",
-    "last_report_quarter": "FY26Q2"
+    "source": "https://marketchameleon.com/Overview/ILMN/Earnings/Earnings-Dates/",
+    "updated_at": "2026-09-04T02:40:41"
   },
   "INIO": {
     "date": "2026-10-27",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-15T02:35:12",
-    "source": "https://www.investing.com/equities/innio-holding-gmbh-earnings"
+    "source": "https://www.investing.com/equities/innio-holding-gmbh-earnings",
+    "updated_at": "2026-08-15T02:35:12"
+  },
+  "INTC": {
+    "date": "2026-10-22",
+    "last_report_date": "2026-07-23",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.tipranks.com/stocks/intc/earnings",
+    "updated_at": "2026-07-24T02:32:45"
   },
   "IREN": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-27",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "updated_at": "2026-09-19T02:33:03",
     "source": "https://www.nasdaq.com/market-activity/stocks/iren/earnings",
-    "last_report_date": "2026-08-27",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-09-19T02:33:03"
   },
   "JPM": {
     "date": "2026-10-13",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-17T02:32:53",
-    "source": "https://www.marketbeat.com/stocks/NYSE/JPM/earnings/"
+    "source": "https://www.marketbeat.com/stocks/NYSE/JPM/earnings/",
+    "updated_at": "2026-07-17T02:32:53"
   },
   "KMI": {
     "date": "2026-10-21",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-26T02:41:58",
     "source": "https://www.benzinga.com/news/26/07/60626573/kinder-morgan-reports-q2-2026-results-full-earnings-call-transcript",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-26T02:41:58"
   },
   "LEU": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-10T02:54:45",
     "source": "https://www.nasdaq.com/market-activity/stocks/leu/earnings",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-10T02:54:45"
   },
   "LH": {
     "date": "2026-10-30",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-17T02:42:58",
     "source": "https://investors.labcorp.com/",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-17T02:42:58"
   },
   "LITE": {
     "date": "2026-11-10",
+    "last_report_date": "2026-08-11",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-27",
     "quarter": "FY27Q1",
-    "updated_at": "2026-08-12T02:42:49",
     "source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx",
-    "last_report_date": "2026-08-11",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-08-12T02:42:49"
   },
   "LLY": {
     "date": "2026-10-29",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-30T02:40:55",
     "source": "https://investor.lilly.com/",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-30T02:40:55"
   },
   "LNG": {
     "date": "2026-10-29",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-07T02:34:01",
     "source": "https://finance.yahoo.com/quote/LNG/",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-09-07T02:34:01"
   },
   "MDTKF": {
     "date": "2026-10-30",
+    "last_report_date": "2026-08-10",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-06T02:41:23",
     "source": "https://www.investing.com/equities/mediatek-earnings",
-    "last_report_date": "2026-08-10",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-06T02:41:23"
   },
   "META": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-30T02:40:57",
     "source": "https://www.nasdaq.com/market-activity/stocks/meta/earnings",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-30T02:40:57"
   },
   "MPWR": {
     "date": "2026-10-30",
+    "last_report_date": "2026-08-03",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-13T02:49:37",
     "source": "https://marketchameleon.com/Overview/MPWR/Earnings/Earnings-Dates/",
-    "last_report_date": "2026-08-03",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-13T02:49:37"
   },
   "MSFT": {
     "date": "2026-10-27",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "updated_at": "2026-07-30T02:40:58",
     "source": "https://www.tipranks.com/stocks/msft/earnings",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-07-30T02:40:58"
   },
   "MU": {
     "date": "2026-09-30",
     "period_end": "2026-08-28",
     "quarter": "FY26Q4",
-    "updated_at": "2026-09-19T02:33:01",
-    "source": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/"
+    "source": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/",
+    "updated_at": "2026-09-19T02:33:01"
   },
   "NBIS": {
     "date": "2026-11-10",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-13T02:49:39",
     "source": "https://www.nasdaq.com/market-activity/stocks/nbis/earnings",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-13T02:49:39"
+  },
+  "NET": {
+    "date": "2026-10-29",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.nasdaq.com/market-activity/stocks/net/earnings",
+    "updated_at": "2026-08-14T02:37:44"
   },
   "NEXT": {
     "date": "2026-11-02",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-22T02:34:33",
-    "source": "https://www.marketbeat.com/stocks/NASDAQ/NEXT/earnings"
+    "source": "https://www.marketbeat.com/stocks/NASDAQ/NEXT/earnings",
+    "updated_at": "2026-07-22T02:34:33"
   },
   "NFE": {
     "date": "2026-09-04",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-10T03:01:16",
     "source": "https://www.investing.com/equities/new-fortress-energy-llc-earnings",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-10T03:01:16"
   },
   "NOVT": {
     "date": "2026-11-03",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-13T02:50:25",
     "source": "https://finance.yahoo.com/quote/NOVT/ (estimated, not officially confirmed)",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-13T02:50:25"
   },
   "NOW": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-24T02:32:52",
     "source": "https://www.tipranks.com/stocks/now/earnings",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-24T02:32:52"
   },
   "NVDA": {
     "date": "2026-11-25",
+    "last_report_date": "2026-08-26",
+    "last_report_quarter": "FY27Q2",
     "period_end": "2026-10-26",
     "quarter": "FY27Q3",
-    "updated_at": "2026-08-27T02:36:54",
     "source": "https://www.nasdaq.com/market-activity/stocks/nvda/earnings",
-    "last_report_date": "2026-08-26",
-    "last_report_quarter": "FY27Q2"
+    "updated_at": "2026-08-27T02:36:54"
   },
   "NVO": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-26T02:41:59",
     "source": "https://www.novonordisk.com/investors/financial-calendar.html",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-26T02:41:59"
   },
   "NVTS": {
     "date": "2026-11-02",
+    "last_report_date": "2026-07-27",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-07-30T02:41:00",
     "source": "https://public.com/stocks/nvts/earnings",
-    "last_report_date": "2026-07-27",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-07-30T02:41:00"
   },
   "ON": {
     "date": "2026-11-02",
+    "last_report_date": "2026-08-03",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-13T02:50:22",
     "source": "https://www.nasdaq.com/market-activity/stocks/on/earnings",
-    "last_report_date": "2026-08-03",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-13T02:50:22"
   },
   "ORCL": {
     "date": "2026-09-10",
     "period_end": "2026-08-31",
     "quarter": "FY27Q1",
-    "updated_at": "2026-09-08T02:33:11",
-    "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-First-Quarter-Fiscal-Year-2027-Earnings-Announcement/default.aspx"
+    "source": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-First-Quarter-Fiscal-Year-2027-Earnings-Announcement/default.aspx",
+    "updated_at": "2026-09-08T02:33:11"
   },
   "OUST": {
     "date": "2026-11-03",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:38:35",
     "source": "https://www.tipranks.com/stocks/oust/earnings [aggregator estimate, not officially confirmed]",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-14T02:38:35"
   },
   "POWI": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-04T02:45:50",
     "source": "https://www.marketbeat.com/stocks/NASDAQ/POWI/earnings/",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-09-04T02:45:50"
   },
   "QCOM": {
     "date": "2026-11-11",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q3",
     "period_end": "2026-09-29",
     "quarter": "FY26Q4",
-    "updated_at": "2026-07-30T02:41:01",
     "source": "https://investor.qualcomm.com/",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q3"
+    "updated_at": "2026-07-30T02:41:01"
   },
   "RIVN": {
     "date": "2026-11-10",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-10T03:01:20",
     "source": "https://www.tipranks.com/stocks/rivn/earnings",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-10T03:01:20"
   },
   "SEDG": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-17T02:34:44",
     "source": "https://www.tipranks.com/stocks/sedg/earnings",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-17T02:34:44"
   },
   "SHOP": {
     "date": "2026-10-22",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:38:33",
     "source": "https://www.tipranks.com/stocks/shop/earnings [aggregator estimate, not officially confirmed]",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-08-14T02:38:33"
   },
   "SNDK": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-10-03",
     "quarter": "FY27Q1",
-    "updated_at": "2026-08-12T02:42:42",
     "source": "https://www.tipranks.com/stocks/sndk/earnings",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-08-12T02:42:42"
   },
   "SNOW": {
     "date": "2026-12-02",
+    "last_report_date": "2026-09-02",
+    "last_report_quarter": "FY27Q2",
     "period_end": "2026-10-31",
     "quarter": "FY27Q3",
-    "updated_at": "2026-09-04T02:42:45",
     "source": "https://www.tipranks.com/stocks/snow/earnings",
-    "last_report_date": "2026-09-02",
-    "last_report_quarter": "FY27Q2"
+    "updated_at": "2026-09-04T02:42:45"
+  },
+  "SPCX": {
+    "date": "2026-11-03",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.wallstreethorizon.com/spacex-earnings-calendar",
+    "updated_at": "2026-08-12T02:42:44"
   },
   "STM": {
     "date": "2026-10-22",
@@ -614,225 +699,146 @@
   },
   "STX": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-26",
     "quarter": "FY27Q1",
-    "updated_at": "2026-08-03T02:35:30",
     "source": "investors.seagate.com",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q4"
-  },
-  "TER": {
-    "date": "2026-10-27",
-    "period_end": "2026-09-27",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-19T02:33:45",
-    "source": "https://www.nasdaq.com/market-activity/stocks/ter/earnings",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q2"
-  },
-  "TSLA": {
-    "date": "2026-10-28",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-07-27T02:39:37",
-    "source": "https://www.tipranks.com/stocks/tsla/earnings",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2"
-  },
-  "TSM": {
-    "date": "2026-10-15",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-07-17T02:32:58",
-    "source": "https://www.wallstreethorizon.com/taiwan-semiconductor-earnings-calendar"
-  },
-  "UBER": {
-    "date": "2026-10-29",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:38:31",
-    "source": "https://www.tipranks.com/stocks/uber/earnings [aggregator estimate, not officially confirmed]",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
-  },
-  "V": {
-    "date": "2026-11-03",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-08-13T02:50:23",
-    "source": "https://www.investing.com/equities/visa-inc-earnings",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q3"
-  },
-  "VG": {
-    "date": "2026-11-09",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:38:37",
-    "source": "https://www.nasdaq.com/market-activity/stocks/vg/earnings [aggregator estimate, not officially confirmed]",
-    "last_report_date": "2026-08-11",
-    "last_report_quarter": "FY26Q2"
-  },
-  "WDC": {
-    "date": "2026-10-22",
-    "period_end": "2026-10-03",
-    "quarter": "FY27Q1",
-    "updated_at": "2026-08-14T02:37:49",
-    "source": "https://www.tipranks.com/stocks/wdc/earnings",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q4"
-  },
-  "WOLF": {
-    "date": "2026-10-28",
-    "period_end": "2026-09-28",
-    "quarter": "FY27Q1",
-    "updated_at": "2026-08-21T02:37:15",
-    "source": "https://public.com",
-    "last_report_date": "2026-08-19",
-    "last_report_quarter": "FY26Q4"
-  },
-  "SPCX": {
-    "date": "2026-11-03",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-12T02:42:44",
-    "source": "https://www.wallstreethorizon.com/spacex-earnings-calendar",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
-  },
-  "NET": {
-    "date": "2026-10-29",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:37:44",
-    "source": "https://www.nasdaq.com/market-activity/stocks/net/earnings",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
-  },
-  "CORZ": {
-    "date": "2026-10-23",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:37:40",
-    "source": "https://www.nasdaq.com/market-activity/stocks/corz/earnings",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
-  },
-  "FSLY": {
-    "date": "2026-11-04",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-12T02:42:35",
-    "source": "https://www.tipranks.com/stocks/fsly/earnings",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
-  },
-  "COST": {
-    "date": "2026-09-24",
-    "period_end": "2026-08-31",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-09-19T02:32:11",
-    "source": "https://www.tipranks.com/news/costco-cost-reports-q4-earnings-on-sept-24-heres-what-analysts-expect"
+    "updated_at": "2026-08-03T02:35:30"
   },
   "TEAM": {
     "date": "2026-10-29",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "updated_at": "2026-08-12T02:42:48",
     "source": "https://www.tipranks.com/stocks/team/earnings",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-08-12T02:42:48"
+  },
+  "TER": {
+    "date": "2026-10-27",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-27",
+    "quarter": "FY26Q3",
+    "source": "https://www.nasdaq.com/market-activity/stocks/ter/earnings",
+    "updated_at": "2026-08-19T02:33:45"
   },
   "TGT": {
     "date": "2026-11-19",
-    "period_end": "2026-10-31",
-    "quarter": "FY27Q3",
-    "updated_at": "2026-08-17T02:43:53",
-    "source": "https://www.tipranks.com/stocks/tgt/earnings",
     "last_report_date": "2026-08-19",
-    "last_report_quarter": "FY27Q2"
-  },
-  "TWLO": {
-    "date": "2026-10-29",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-14T02:37:47",
-    "source": "https://investors.twilio.com/",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
-  },
-  "TXG": {
-    "date": "2026-11-04",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-09-04T02:40:38",
-    "source": "https://www.investing.com/equities/10x-genomics-inc-earnings"
-  },
-  "WMT": {
-    "date": "2026-11-19",
+    "last_report_quarter": "FY27Q2",
     "period_end": "2026-10-31",
     "quarter": "FY27Q3",
-    "updated_at": "2026-08-17T02:43:55",
-    "source": "https://corporate.walmart.com/news/events",
-    "last_report_date": "2026-08-20",
-    "last_report_quarter": "FY27Q2"
-  },
-  "WULF": {
-    "date": "2026-11-09",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-13T02:52:09",
-    "source": "https://www.gurufocus.com/news/3195653/terawulf-wulf-prepares-for-q3-earnings-announcement",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
-  },
-  "CAT": {
-    "date": "2026-11-04",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-08-13T02:52:53",
-    "source": "https://www.investing.com/equities/caterpillar-earnings (analyst estimate, not yet officially confirmed)"
-  },
-  "ILMN": {
-    "date": "2026-10-29",
-    "period_end": "2026-09-27",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-09-04T02:40:41",
-    "source": "https://marketchameleon.com/Overview/ILMN/Earnings/Earnings-Dates/"
+    "source": "https://www.tipranks.com/stocks/tgt/earnings",
+    "updated_at": "2026-08-17T02:43:53"
   },
   "TMO": {
     "date": "2026-10-28",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-04T02:40:43",
-    "source": "https://www.wallstreetzen.com/stocks/us/nyse/tmo/earnings"
+    "source": "https://www.wallstreetzen.com/stocks/us/nyse/tmo/earnings",
+    "updated_at": "2026-09-04T02:40:43"
   },
-  "DHR": {
-    "date": "2026-10-27",
+  "TSLA": {
+    "date": "2026-10-28",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-04T02:40:40",
-    "source": "https://www.tipranks.com/stocks/dhr/earnings"
+    "source": "https://www.tipranks.com/stocks/tsla/earnings",
+    "updated_at": "2026-07-27T02:39:37"
   },
-  "3008.TW": {
-    "date": "2026-10-08",
+  "TSM": {
+    "date": "2026-10-15",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-06T02:35:56",
-    "source": "https://www.investing.com/equities/largan-precisi-earnings"
+    "source": "https://www.wallstreethorizon.com/taiwan-semiconductor-earnings-calendar",
+    "updated_at": "2026-07-17T02:32:58"
   },
-  "ALAB": {
+  "TWLO": {
+    "date": "2026-10-29",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://investors.twilio.com/",
+    "updated_at": "2026-08-14T02:37:47"
+  },
+  "TWST": {
+    "date": null,
+    "period_end": null,
+    "quarter": null,
+    "updated_at": "2026-09-23T22:19:02"
+  },
+  "TXG": {
+    "date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.investing.com/equities/10x-genomics-inc-earnings",
+    "updated_at": "2026-09-04T02:40:38"
+  },
+  "UBER": {
+    "date": "2026-10-29",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.tipranks.com/stocks/uber/earnings [aggregator estimate, not officially confirmed]",
+    "updated_at": "2026-08-14T02:38:31"
+  },
+  "V": {
     "date": "2026-11-03",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q3",
     "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-09-22T02:35:15",
-    "source": "https://marketchameleon.com/Overview/ALAB/Earnings/Earnings-Dates/"
+    "quarter": "FY26Q4",
+    "source": "https://www.investing.com/equities/visa-inc-earnings",
+    "updated_at": "2026-08-13T02:50:23"
   },
-  "2498.HK": {
-    "date": "2026-11-03",
+  "VG": {
+    "date": "2026-11-09",
+    "last_report_date": "2026-08-11",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-09-23T02:55:41",
-    "source": "https://www.investing.com/equities/htc-corp"
+    "source": "https://www.nasdaq.com/market-activity/stocks/vg/earnings [aggregator estimate, not officially confirmed]",
+    "updated_at": "2026-08-14T02:38:37"
+  },
+  "WDC": {
+    "date": "2026-10-22",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q4",
+    "period_end": "2026-10-03",
+    "quarter": "FY27Q1",
+    "source": "https://www.tipranks.com/stocks/wdc/earnings",
+    "updated_at": "2026-08-14T02:37:49"
+  },
+  "WMT": {
+    "date": "2026-11-19",
+    "last_report_date": "2026-08-20",
+    "last_report_quarter": "FY27Q2",
+    "period_end": "2026-10-31",
+    "quarter": "FY27Q3",
+    "source": "https://corporate.walmart.com/news/events",
+    "updated_at": "2026-08-17T02:43:55"
+  },
+  "WOLF": {
+    "date": "2026-10-28",
+    "last_report_date": "2026-08-19",
+    "last_report_quarter": "FY26Q4",
+    "period_end": "2026-09-28",
+    "quarter": "FY27Q1",
+    "source": "https://public.com",
+    "updated_at": "2026-08-21T02:37:15"
+  },
+  "WULF": {
+    "date": "2026-11-09",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "source": "https://www.gurufocus.com/news/3195653/terawulf-wulf-prepares-for-q3-earnings-announcement",
+    "updated_at": "2026-08-13T02:52:09"
   }
 }
