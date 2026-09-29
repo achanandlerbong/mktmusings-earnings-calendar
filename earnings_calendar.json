@@ -191,11 +191,13 @@
     "updated_at": "2026-08-14T02:37:40"
   },
   "COST": {
-    "date": "2026-09-24",
-    "period_end": "2026-08-31",
-    "quarter": "FY26Q4",
-    "source": "https://www.tipranks.com/news/costco-cost-reports-q4-earnings-on-sept-24-heres-what-analysts-expect",
-    "updated_at": "2026-09-19T02:32:11"
+    "date": "2026-12-10",
+    "period_end": "2026-11-29",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-09-29T02:42:10",
+    "source": "https://www.wallstreethorizon.com/costco-earnings-calendar",
+    "last_report_date": "2026-09-24",
+    "last_report_quarter": "FY26Q4"
   },
   "CRCL": {
     "date": "2026-11-11",
