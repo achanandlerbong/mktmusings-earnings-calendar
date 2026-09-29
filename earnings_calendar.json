@@ -842,5 +842,12 @@
     "quarter": "FY26Q3",
     "source": "https://www.gurufocus.com/news/3195653/terawulf-wulf-prepares-for-q3-earnings-announcement",
     "updated_at": "2026-08-13T02:52:09"
+  },
+  "MRVL": {
+    "date": "2026-11-26",
+    "period_end": null,
+    "quarter": "FY27Q3",
+    "updated_at": "2026-09-29T02:41:06",
+    "source": "https://www.tipranks.com/stocks/mrvl/earnings"
   }
 }
