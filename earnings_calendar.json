@@ -510,11 +510,13 @@
     "updated_at": "2026-07-30T02:40:58"
   },
   "MU": {
-    "date": "2026-09-30",
-    "period_end": "2026-09-03",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-10-01T02:35:13",
-    "source": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html"
+    "date": "2026-12-16",
+    "period_end": "2026-11-26",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-10-01T02:38:26",
+    "source": "https://www.wallstreethorizon.com/micron-earnings-calendar",
+    "last_report_date": "2026-09-30",
+    "last_report_quarter": "FY26Q4"
   },
   "NBIS": {
     "date": "2026-11-10",
