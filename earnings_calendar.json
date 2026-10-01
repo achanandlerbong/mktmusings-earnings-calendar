@@ -209,13 +209,13 @@
     "updated_at": "2026-08-14T02:37:42"
   },
   "CRUS": {
-    "date": "2026-08-04",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY27Q1",
+    "date": "2026-11-04",
     "period_end": "2026-09-28",
     "quarter": "FY27Q2",
-    "source": "https://www.nasdaq.com/market-activity/stocks/crus/earnings",
-    "updated_at": "2026-07-29T02:52:56"
+    "updated_at": "2026-10-01T02:38:21",
+    "source": "https://www.tipranks.com/stocks/crus/earnings",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY27Q1"
   },
   "CRWV": {
     "date": "2026-11-16",
