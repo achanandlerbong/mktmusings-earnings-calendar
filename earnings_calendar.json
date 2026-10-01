@@ -542,13 +542,13 @@
     "updated_at": "2026-07-22T02:34:33"
   },
   "NFE": {
-    "date": "2026-09-04",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-09",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.investing.com/equities/new-fortress-energy-llc-earnings",
-    "updated_at": "2026-08-10T03:01:16"
+    "updated_at": "2026-10-01T02:38:23",
+    "source": "https://www.marketbeat.com/stocks/NASDAQ/NFE/earnings/",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q2"
   },
   "NOVT": {
     "date": "2026-11-03",
