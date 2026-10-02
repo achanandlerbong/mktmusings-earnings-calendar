@@ -286,11 +286,13 @@
     "updated_at": "2026-08-13T02:49:33"
   },
   "ET": {
-    "date": "2026-08-04",
-    "period_end": "2026-06-30",
-    "quarter": "FY26Q2",
-    "source": "https://www.businesswire.com/news/home/20260630868795/en/Energy-Transfer-Announces-Second-Quarter-2026-Earnings-Release-and-Earnings-Call-Timing",
-    "updated_at": "2026-07-01T02:46:14"
+    "date": "2026-11-03",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-10-02T02:31:04",
+    "source": "https://ir.energytransfer.com/news-releases/news-release-details/energy-transfer-announces-third-quarter-2026-earnings-release",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "FLNG": {
     "date": "2026-11-27",
