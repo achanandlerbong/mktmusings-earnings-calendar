@@ -749,13 +749,14 @@
     "updated_at": "2026-09-04T02:40:43"
   },
   "TSLA": {
-    "date": "2026-10-28",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-21",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/tsla/earnings",
-    "updated_at": "2026-07-27T02:39:37"
+    "updated_at": "2026-10-02T14:15:30",
+    "report_time": "after_close",
+    "source": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2"
   },
   "TSM": {
     "date": "2026-10-15",
