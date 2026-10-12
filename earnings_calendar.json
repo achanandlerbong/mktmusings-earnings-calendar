@@ -679,13 +679,13 @@
     "updated_at": "2026-08-17T02:34:44"
   },
   "SHOP": {
-    "date": "2026-10-22",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-03",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/shop/earnings [aggregator estimate, not officially confirmed]",
-    "updated_at": "2026-08-14T02:38:33"
+    "updated_at": "2026-10-12T02:34:01",
+    "source": "https://finviz.com/news/399064/shopify-to-announce-third-quarter-2026-financial-results",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "SNDK": {
     "date": "2026-11-05",
