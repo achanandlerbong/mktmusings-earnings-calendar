@@ -30,13 +30,13 @@
     "updated_at": "2026-08-10T02:37:47"
   },
   "AAPL": {
-    "date": "2026-10-29",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q3",
-    "period_end": "2026-09-29",
+    "date": "2026-11-02",
+    "period_end": "2026-09-26",
     "quarter": "FY26Q4",
-    "source": "tipranks.com",
-    "updated_at": "2026-08-03T02:35:25"
+    "updated_at": "2026-10-21T02:33:39",
+    "source": "https://www.mactrast.com/2026/10/apple-to-announce-fiscal-q4-2026-earnings-on-november-2/",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q3"
   },
   "ACN": {
     "date": "2026-12-18",
