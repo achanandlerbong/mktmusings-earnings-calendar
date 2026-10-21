@@ -512,13 +512,13 @@
     "updated_at": "2026-09-29T02:41:06"
   },
   "MSFT": {
-    "date": "2026-10-27",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q4",
+    "date": "2026-10-28",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "source": "https://www.tipranks.com/stocks/msft/earnings",
-    "updated_at": "2026-07-30T02:40:58"
+    "updated_at": "2026-10-21T02:35:24",
+    "source": "https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q4"
   },
   "MU": {
     "date": "2026-12-16",
