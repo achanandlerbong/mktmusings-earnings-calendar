@@ -360,11 +360,13 @@
     "updated_at": "2026-07-24T02:32:53"
   },
   "GS": {
-    "date": "2026-10-13",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/gs/earnings",
-    "updated_at": "2026-10-05T02:34:58"
+    "date": "2027-01-19",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-10-21T02:36:25",
+    "source": "https://www.goldmansachs.com/pressroom/press-releases/2025/conference-call-dates-to-announce-4q25-and-2026-earnings-results",
+    "last_report_date": "2026-10-13",
+    "last_report_quarter": "FY26Q3"
   },
   "HSAI": {
     "date": "2026-11-10",
