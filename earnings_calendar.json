@@ -123,13 +123,13 @@
     "updated_at": "2026-09-04T02:37:22"
   },
   "BE": {
-    "date": "2026-10-29",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-22",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://investor.bloomenergy.com/",
-    "updated_at": "2026-07-30T02:40:50"
+    "updated_at": "2026-10-21T02:35:20",
+    "source": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q2"
   },
   "BKR": {
     "date": "2026-10-28",
