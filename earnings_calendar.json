@@ -132,13 +132,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "BKR": {
-    "date": "2026-10-28",
-    "last_report_date": "2026-07-26",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-27",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://marketchameleon.com/Overview/BKR/Earnings/Earnings-Dates/",
-    "updated_at": "2026-08-06T02:36:20"
+    "updated_at": "2026-10-21T02:35:21",
+    "source": "https://s21.q4cdn.com/548121662/files/doc_news/Baker-Hughes-Announces-Dates-for-Third-quarter-Earnings-Release-and-Webcast-2026.pdf",
+    "last_report_date": "2026-07-26",
+    "last_report_quarter": "FY26Q2"
   },
   "CAT": {
     "date": "2026-11-04",
