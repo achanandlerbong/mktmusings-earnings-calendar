@@ -487,13 +487,13 @@
     "updated_at": "2026-08-06T02:41:23"
   },
   "META": {
-    "date": "2026-10-28",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-21",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.nasdaq.com/market-activity/stocks/meta/earnings",
-    "updated_at": "2026-07-30T02:40:57"
+    "updated_at": "2026-10-21T02:35:33",
+    "source": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2"
   },
   "MPWR": {
     "date": "2026-10-29",
