@@ -98,13 +98,13 @@
     "updated_at": "2026-08-06T02:36:18"
   },
   "AMZN": {
-    "date": "2026-10-22",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "finbox.com",
-    "updated_at": "2026-08-03T02:35:26"
+    "updated_at": "2026-10-21T02:33:40",
+    "source": "https://www.aboutamazon.com/md/news/company-news/amazon-earnings-q3-2026-report",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "ARM": {
     "date": "2026-11-04",
