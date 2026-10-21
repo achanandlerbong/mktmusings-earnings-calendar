@@ -706,13 +706,14 @@
     "updated_at": "2026-09-04T02:42:45"
   },
   "SPCX": {
-    "date": "2026-11-03",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-20",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.wallstreethorizon.com/spacex-earnings-calendar",
-    "updated_at": "2026-08-12T02:42:44"
+    "updated_at": "2026-10-20T20:43:37",
+    "report_time": "after_close",
+    "source": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "STM": {
     "date": "2026-10-29",
