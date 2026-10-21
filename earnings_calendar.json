@@ -175,13 +175,13 @@
     "updated_at": "2026-08-15T02:35:05"
   },
   "COIN": {
-    "date": "2026-10-30",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/coin/earnings",
-    "updated_at": "2026-07-27T02:38:35"
+    "updated_at": "2026-10-21T02:35:23",
+    "source": "https://www.ariva.de/news/coinbase-announces-date-of-third-quarter-2026-financial-12169502",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "CORZ": {
     "date": "2026-10-23",
