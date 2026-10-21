@@ -765,11 +765,11 @@
     "updated_at": "2026-08-17T02:43:53"
   },
   "TMO": {
-    "date": "2026-10-28",
+    "date": "2026-10-21",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.wallstreetzen.com/stocks/us/nyse/tmo/earnings",
-    "updated_at": "2026-09-04T02:40:43"
+    "updated_at": "2026-10-21T02:35:35",
+    "source": "https://finviz.com/news/395919/thermo-fisher-scientific-to-hold-earnings-conference-call-on-wednesday-october-21-2026"
   },
   "TSLA": {
     "date": "2026-10-21",
