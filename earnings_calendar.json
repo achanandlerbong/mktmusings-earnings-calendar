@@ -80,13 +80,14 @@
     "updated_at": "2026-09-23T02:52:18"
   },
   "AMD": {
-    "date": "2026-11-02",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2",
-    "period_end": "2026-09-29",
+    "date": "2026-11-03",
+    "period_end": "2026-09-26",
     "quarter": "FY26Q3",
-    "source": "https://www.wallstreethorizon.com/amd-earnings-calendar",
-    "updated_at": "2026-07-30T02:40:53"
+    "updated_at": "2026-10-23T02:42:41",
+    "report_time": "after_close",
+    "source": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "AMSSY": {
     "date": "2026-11-12",
