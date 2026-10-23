@@ -282,11 +282,12 @@
     "updated_at": "2026-09-19T02:34:12"
   },
   "ENPH": {
-    "date": "2026-10-28",
+    "date": "2026-10-27",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.msn.com/en-us/money/markets/enphase-energy-to-report-q3-earnings-amid-soft-solar-demand/ar-AA1PhO4M",
-    "updated_at": "2026-07-20T02:33:38"
+    "updated_at": "2026-10-23T02:42:42",
+    "report_time": "after_close",
+    "source": "https://finviz.com/news/399170/enphase-energy-announces-conference-call-to-review-third-quarter-2026-financial-results"
   },
   "EPD": {
     "date": "2026-10-29",
