@@ -555,13 +555,14 @@
     "updated_at": "2026-08-13T02:49:39"
   },
   "NET": {
-    "date": "2026-10-29",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-05",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.nasdaq.com/market-activity/stocks/net/earnings",
-    "updated_at": "2026-08-14T02:37:44"
+    "updated_at": "2026-10-23T02:42:45",
+    "report_time": "after_close",
+    "source": "https://www.gurufocus.com/news/9121733/cloudflare-announces-date-of-third-quarter-2026-financial-results",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "NEXT": {
     "date": "2026-11-02",
