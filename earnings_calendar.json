@@ -362,13 +362,14 @@
     "updated_at": "2026-09-19T02:33:05"
   },
   "GOOGL": {
-    "date": "2026-10-27",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-28",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/googl/earnings",
-    "updated_at": "2026-07-24T02:32:53"
+    "updated_at": "2026-10-23T02:42:44",
+    "report_time": "after_close",
+    "source": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call-2026-8tpGZsLS6v/default.aspx",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2"
   },
   "GS": {
     "date": "2027-01-19",
