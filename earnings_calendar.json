@@ -565,11 +565,12 @@
     "last_report_quarter": "FY26Q2"
   },
   "NEXT": {
-    "date": "2026-11-02",
+    "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.marketbeat.com/stocks/NASDAQ/NEXT/earnings",
-    "updated_at": "2026-07-22T02:34:33"
+    "updated_at": "2026-10-23T02:42:47",
+    "report_time": "before_open",
+    "source": "https://www.stocktitan.net/news/NEXT/next-decade-announces-timing-of-third-quarter-2026-investor-266mwpznc3i3.html"
   },
   "NFE": {
     "date": "2026-11-09",
