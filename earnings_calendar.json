@@ -831,13 +831,14 @@
     "updated_at": "2026-09-04T02:40:38"
   },
   "UBER": {
-    "date": "2026-10-29",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-04",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/uber/earnings [aggregator estimate, not officially confirmed]",
-    "updated_at": "2026-08-14T02:38:31"
+    "updated_at": "2026-10-23T02:42:50",
+    "report_time": "before_open",
+    "source": "https://site.financialmodelingprep.com/market-news/uber-q3-2026-earnings-call-citizens-100-price-target",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "V": {
     "date": "2026-11-03",
