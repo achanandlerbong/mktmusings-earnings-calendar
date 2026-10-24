@@ -650,12 +650,12 @@
   },
   "OUST": {
     "date": "2026-11-03",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/oust/earnings [aggregator estimate, not officially confirmed]",
-    "updated_at": "2026-08-14T02:38:35"
+    "updated_at": "2026-10-24T02:38:27",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "POWI": {
     "date": "2026-11-04",
