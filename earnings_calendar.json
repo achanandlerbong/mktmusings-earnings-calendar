@@ -457,12 +457,12 @@
   },
   "LH": {
     "date": "2026-10-28",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.labcorp.com/education-events/press-releases/labcorp-announce-third-quarter-2026-financial-results-october-28",
-    "updated_at": "2026-10-21T02:35:30"
+    "updated_at": "2026-10-24T02:38:08",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "LITE": {
     "date": "2026-11-10",
