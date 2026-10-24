@@ -589,12 +589,12 @@
   },
   "NOW": {
     "date": "2026-10-28",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/now/earnings",
-    "updated_at": "2026-07-24T02:32:52"
+    "updated_at": "2026-10-24T02:38:20",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2"
   },
   "NVDA": {
     "date": "2026-11-25",
