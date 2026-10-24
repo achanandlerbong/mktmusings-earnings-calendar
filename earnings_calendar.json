@@ -412,12 +412,12 @@
   },
   "INTC": {
     "date": "2026-10-29",
-    "last_report_date": "2026-07-23",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.intc.com/news-events/press-releases/detail/1782/intel-to-report-third-quarter-2026-financial-results",
-    "updated_at": "2026-10-12T02:34:00"
+    "updated_at": "2026-10-24T02:38:06",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-07-23",
+    "last_report_quarter": "FY26Q2"
   },
   "IREN": {
     "date": "2026-11-05",
