@@ -527,12 +527,12 @@
   },
   "MSFT": {
     "date": "2026-10-28",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "source": "https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date",
-    "updated_at": "2026-10-21T02:35:24"
+    "updated_at": "2026-10-24T02:38:17",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q4"
   },
   "MU": {
     "date": "2026-12-16",
