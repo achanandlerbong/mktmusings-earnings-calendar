@@ -149,12 +149,12 @@
   },
   "CLS": {
     "date": "2026-10-26",
-    "last_report_date": "2026-07-27",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://corporate.celestica.com/quarterly-results",
-    "updated_at": "2026-07-30T02:40:52"
+    "updated_at": "2026-10-24T02:37:54",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-07-27",
+    "last_report_quarter": "FY26Q2"
   },
   "CMG": {
     "date": "2026-10-28",
