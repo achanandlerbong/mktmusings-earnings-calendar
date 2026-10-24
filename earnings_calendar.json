@@ -484,12 +484,12 @@
   },
   "LNG": {
     "date": "2026-10-29",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://finance.yahoo.com/quote/LNG/",
-    "updated_at": "2026-09-07T02:34:01"
+    "updated_at": "2026-10-24T02:38:11",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "MDTKF": {
     "date": "2026-10-30",
