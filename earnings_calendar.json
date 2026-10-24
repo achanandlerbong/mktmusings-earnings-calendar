@@ -158,12 +158,12 @@
   },
   "CMG": {
     "date": "2026-10-28",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "tipranks.com",
-    "updated_at": "2026-08-03T02:35:28"
+    "updated_at": "2026-10-24T02:37:55",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2"
   },
   "COHR": {
     "date": "2026-11-11",
