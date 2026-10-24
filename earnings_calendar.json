@@ -511,12 +511,12 @@
   },
   "MPWR": {
     "date": "2026-10-29",
-    "last_report_date": "2026-08-03",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://finviz.com/news/400581/monolithic-power-systems-to-report-third-quarter-2026-results-on-october-29-2026",
-    "updated_at": "2026-10-21T02:35:32"
+    "updated_at": "2026-10-24T02:38:12",
+    "source": "verified-2026-10-24",
+    "last_report_date": "2026-08-03",
+    "last_report_quarter": "FY26Q2"
   },
   "MRVL": {
     "date": "2026-11-26",
