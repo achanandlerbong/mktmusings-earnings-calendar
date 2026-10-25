@@ -141,11 +141,11 @@
     "last_report_quarter": "FY26Q2"
   },
   "CAT": {
-    "date": "2026-11-04",
+    "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.investing.com/equities/caterpillar-earnings (analyst estimate, not yet officially confirmed)",
-    "updated_at": "2026-08-13T02:52:53"
+    "updated_at": "2026-10-25T02:32:22",
+    "source": "https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-to-announce-3Q-2026-financial-results-on-oct-29.html"
   },
   "CLS": {
     "date": "2026-10-26",
