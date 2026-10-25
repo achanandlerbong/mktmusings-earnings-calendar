@@ -221,12 +221,12 @@
   },
   "CRUS": {
     "date": "2026-11-04",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY27Q1",
     "period_end": "2026-09-28",
     "quarter": "FY27Q2",
-    "source": "https://www.tipranks.com/stocks/crus/earnings",
-    "updated_at": "2026-10-01T02:38:21"
+    "updated_at": "2026-10-25T02:32:28",
+    "source": "https://finviz.com/news/402039/cirrus-logic-to-report-second-quarter-fiscal-year-2027-results",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY27Q1"
   },
   "CRWV": {
     "date": "2026-11-16",
