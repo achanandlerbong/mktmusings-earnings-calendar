@@ -447,12 +447,12 @@
   },
   "LEU": {
     "date": "2026-11-04",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.nasdaq.com/market-activity/stocks/leu/earnings",
-    "updated_at": "2026-08-10T02:54:45"
+    "updated_at": "2026-10-26T02:38:49",
+    "source": "https://rallies.ai/news/centrus-energy-publishes-update-to-financial-calendar-cac1f51a8f736e62",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "LH": {
     "date": "2026-10-28",
