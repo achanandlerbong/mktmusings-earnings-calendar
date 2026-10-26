@@ -56,12 +56,12 @@
   },
   "AKAM": {
     "date": "2026-11-05",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/akam/earnings",
-    "updated_at": "2026-08-31T02:37:09"
+    "updated_at": "2026-10-26T02:38:15",
+    "source": "https://www.akamai.com/newsroom/press-release/akamai-technologies-to-hold-third-quarter-2026-investor-conference-call",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2"
   },
   "ALAB": {
     "date": "2026-11-03",
