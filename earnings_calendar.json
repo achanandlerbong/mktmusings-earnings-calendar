@@ -624,10 +624,10 @@
   },
   "NXPI": {
     "date": "2026-10-27",
-    "period_end": null,
+    "period_end": "2026-09-27",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-25T02:32:53",
-    "source": "https://finviz.com/news/399191/nxp-semiconductors"
+    "updated_at": "2026-10-26T02:39:03",
+    "source": "https://finviz.com/news/399191/nxp-semiconductors-announces-conference-call-to-review-third-quarter-2026-financial-results"
   },
   "ON": {
     "date": "2026-11-02",
