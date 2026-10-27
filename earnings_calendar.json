@@ -221,9 +221,9 @@
   },
   "CRUS": {
     "date": "2026-11-04",
-    "period_end": null,
+    "period_end": "2026-09-26",
     "quarter": "FY27Q2",
-    "updated_at": "2026-10-26T02:38:34",
+    "updated_at": "2026-10-27T02:36:37",
     "source": "https://finviz.com/news/402039/cirrus-logic-to-report-second-quarter-fiscal-year-2027-results",
     "last_report_date": "2026-08-05",
     "last_report_quarter": "FY27Q1"
