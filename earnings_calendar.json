@@ -887,5 +887,12 @@
     "quarter": "FY26Q3",
     "source": "https://www.gurufocus.com/news/3195653/terawulf-wulf-prepares-for-q3-earnings-announcement",
     "updated_at": "2026-08-13T02:52:09"
+  },
+  "CRWD": {
+    "date": "2026-12-01",
+    "period_end": "2026-10-31",
+    "quarter": "FY27Q3",
+    "updated_at": "2026-10-27T02:37:48",
+    "source": "https://days.to/crowdstrike-earnings"
   }
 }
