@@ -746,10 +746,11 @@
     "last_report_quarter": "FY26Q4"
   },
   "SYNA": {
-    "date": null,
-    "period_end": null,
-    "quarter": null,
-    "updated_at": "2026-10-05T20:35:14.983741+00:00"
+    "date": "2026-11-05",
+    "period_end": "2026-09-26",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-10-27T02:37:50",
+    "source": "https://www.barchart.com/story/news/35499848/synaptics-to-report-first-quarter-fiscal-2026-results-on-november-6-2025"
   },
   "TEAM": {
     "date": "2026-11-05",
