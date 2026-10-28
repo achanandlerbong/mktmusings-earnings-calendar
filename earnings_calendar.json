@@ -872,9 +872,9 @@
   },
   "WOLF": {
     "date": "2026-11-04",
-    "period_end": "2026-09-27",
+    "period_end": null,
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-27T02:37:44",
+    "updated_at": "2026-10-28T02:37:29",
     "source": "https://finviz.com/news/403322/wolfspeed-inc-announces-date-of-fiscal-first-quarter-earnings-call-for-november-4-2026",
     "last_report_date": "2026-08-19",
     "last_report_quarter": "FY26Q4"
