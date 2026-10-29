@@ -885,12 +885,12 @@
   },
   "WOLF": {
     "date": "2026-11-04",
-    "last_report_date": "2026-08-19",
-    "last_report_quarter": "FY26Q4",
     "period_end": null,
     "quarter": "FY27Q1",
-    "source": "https://finviz.com/news/403322/wolfspeed-inc-announces-date-of-fiscal-first-quarter-earnings-call-for-november-4-2026",
-    "updated_at": "2026-10-28T02:37:29"
+    "updated_at": "2026-10-29T02:37:14",
+    "source": "https://www.wolfspeed.com/company/news-events/news/wolfspeed-inc-announces-date-of-fiscal-first-quarter-earnings-call-for-november-4-2026/",
+    "last_report_date": "2026-08-19",
+    "last_report_quarter": "FY26Q4"
   },
   "WULF": {
     "date": "2026-11-09",
