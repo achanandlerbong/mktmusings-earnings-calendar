@@ -670,12 +670,12 @@
   },
   "POWI": {
     "date": "2026-11-04",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://s25.q4cdn.com/829851629/files/doc_news/Power-Integrations-to-Announce-Third-Quarter-Financial-Results-2026.pdf",
-    "updated_at": "2026-10-28T02:37:14"
+    "updated_at": "2026-10-29T02:37:04",
+    "source": "https://www.financialcontent.com/article/bizwire-2026-10-15-power-integrations-to-announce-third-quarter-financial-results",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "QCOM": {
     "date": "2026-11-11",
