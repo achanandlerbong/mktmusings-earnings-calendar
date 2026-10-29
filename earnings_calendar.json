@@ -358,10 +358,11 @@
     "last_report_quarter": "FY26Q2"
   },
   "GEV": {
-    "date": null,
-    "period_end": null,
-    "quarter": null,
-    "updated_at": "2026-10-28T17:53:45"
+    "date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-10-29T02:37:20",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm"
   },
   "GLNG": {
     "date": "2026-11-11",
