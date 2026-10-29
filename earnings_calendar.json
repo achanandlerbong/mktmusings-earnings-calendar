@@ -22,21 +22,21 @@
   },
   "AAOI": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:40",
     "source": "https://finviz.com/news/403299/applied-optoelectronics-announces-date-of-third-quarter-2026-financial-results-conference-call",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:40"
   },
   "AAPL": {
     "date": "2026-11-02",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q3",
     "period_end": "2026-09-26",
     "quarter": "FY26Q4",
-    "updated_at": "2026-10-28T02:36:42",
     "source": "https://www.mactrast.com/2026/10/apple-to-announce-fiscal-q4-2026-earnings-on-november-2/",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q3"
+    "updated_at": "2026-10-28T02:36:42"
   },
   "ACN": {
     "date": "2026-12-18",
@@ -51,24 +51,24 @@
     "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:43",
-    "source": "https://www.placera.se/pressmeddelanden/aixtron-aixtron-q3-2026-order-intake-and-operating-profitability-significantly-exceed-market-expectations-20261015-1"
+    "source": "https://www.placera.se/pressmeddelanden/aixtron-aixtron-q3-2026-order-intake-and-operating-profitability-significantly-exceed-market-expectations-20261015-1",
+    "updated_at": "2026-10-28T02:36:43"
   },
   "AKAM": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:45",
     "source": "https://www.akamai.com/newsroom/press-release/akamai-technologies-to-hold-third-quarter-2026-investor-conference-call",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:45"
   },
   "ALAB": {
     "date": "2026-11-03",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:47",
-    "source": "https://finviz.com/news/399499/astera-labs-announces-conference-call-to-review-third-quarter-2026-financial-results"
+    "source": "https://finviz.com/news/399499/astera-labs-announces-conference-call-to-review-third-quarter-2026-financial-results",
+    "updated_at": "2026-10-28T02:36:47"
   },
   "AMBA": {
     "date": "2026-12-01",
@@ -81,12 +81,12 @@
   },
   "AMD": {
     "date": "2026-11-03",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-26",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:48",
     "source": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:48"
   },
   "AMSSY": {
     "date": "2026-11-12",
@@ -99,19 +99,19 @@
   },
   "AMZN": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:50",
     "source": "https://ir.aboutamazon.com/events/event-details/2026/Q3-2026-Amazoncom-Inc-Earnings-Conference-Call/default.aspx",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:50"
   },
   "ARM": {
     "date": "2026-11-04",
     "period_end": "2026-09-30",
     "quarter": "FY27Q2",
-    "updated_at": "2026-10-28T02:36:51",
-    "source": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-second-quarter-fiscal-year-ending-2027"
+    "source": "https://newsroom.arm.com/news/arm-announces-earnings-release-date-for-second-quarter-fiscal-year-ending-2027",
+    "updated_at": "2026-10-28T02:36:51"
   },
   "AVGO": {
     "date": "2026-12-10",
@@ -133,37 +133,37 @@
   },
   "BKR": {
     "date": "2026-10-27",
+    "last_report_date": "2026-07-26",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-26T02:38:25",
     "source": "https://s21.q4cdn.com/548121662/files/doc_news/Baker-Hughes-Announces-Dates-for-Third-quarter-Earnings-Release-and-Webcast-2026.pdf",
-    "last_report_date": "2026-07-26",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-26T02:38:25"
   },
   "CAT": {
     "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:27",
-    "source": "https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-to-announce-3Q-2026-financial-results-on-oct-29.html"
+    "source": "https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-to-announce-3Q-2026-financial-results-on-oct-29.html",
+    "updated_at": "2026-10-28T02:36:27"
   },
   "CLS": {
     "date": "2026-10-26",
+    "last_report_date": "2026-07-27",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-25T02:32:24",
     "source": "https://finviz.com/news/399550/celestica",
-    "last_report_date": "2026-07-27",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-25T02:32:24"
   },
   "CMG": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-27T02:36:31",
     "source": "https://newsroom.chipotle.com/2026-09-01-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2026-RESULTS-ON-OCTOBER-28,-2026",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-27T02:36:31"
   },
   "COHR": {
     "date": "2026-11-11",
@@ -176,21 +176,21 @@
   },
   "COIN": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:29",
     "source": "https://investingnews.com/coinbase-announces-date-of-third-quarter-2026-financial-results/",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:29"
   },
   "CORZ": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:31",
     "source": "https://finviz.com/news/402874/core-scientific-inc-schedules-third-quarter-fiscal-year-2026-earnings-release-conference-call-and-webcast",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:31"
   },
   "COST": {
     "date": "2026-12-10",
@@ -212,21 +212,28 @@
   },
   "CRDO": {
     "date": "2026-12-01",
+    "last_report_date": "2026-09-01",
+    "last_report_quarter": "FY27Q1",
     "period_end": "2026-10-31",
     "quarter": "FY27Q2",
-    "updated_at": "2026-10-27T02:37:46",
     "source": "https://investors.credosemi.com/news-events/news/news-details/2025/Credo-Schedules-Second-Quarter-Fiscal-Year-2026-Financial-Results-Conference-Call/default.aspx",
-    "last_report_date": "2026-09-01",
-    "last_report_quarter": "FY27Q1"
+    "updated_at": "2026-10-27T02:37:46"
   },
   "CRUS": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY27Q1",
     "period_end": "2026-09-26",
     "quarter": "FY27Q2",
-    "updated_at": "2026-10-28T02:36:32",
     "source": "https://finviz.com/news/402039/cirrus-logic-to-report-second-quarter-fiscal-year-2027-results",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY27Q1"
+    "updated_at": "2026-10-28T02:36:32"
+  },
+  "CRWD": {
+    "date": "2026-12-01",
+    "period_end": "2026-10-31",
+    "quarter": "FY27Q3",
+    "source": "https://days.to/crowdstrike-earnings",
+    "updated_at": "2026-10-27T02:37:48"
   },
   "CRWV": {
     "date": "2026-11-16",
@@ -239,12 +246,12 @@
   },
   "DDOG": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:34",
     "source": "https://finviz.com/news/402639/datadog-announces-date-of-third-quarter-fiscal-year-2026-earnings-call",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:34"
   },
   "DGX": {
     "date": "2026-10-22",
@@ -273,37 +280,37 @@
   },
   "EE": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:35",
     "source": "https://finviz.com/news/399558/excelerate-energy-announces-third-quarter-2026-earnings-conference-call-date",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:35"
   },
   "ENPH": {
     "date": "2026-10-27",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-26T02:38:38",
-    "source": "https://finviz.com/news/399170/enphase-energy-announces-conference-call-to-review-third-quarter-2026-financial-results"
+    "source": "https://finviz.com/news/399170/enphase-energy-announces-conference-call-to-review-third-quarter-2026-financial-results",
+    "updated_at": "2026-10-26T02:38:38"
   },
   "EPD": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:37",
     "source": "https://ir.enterpriseproducts.com/node/45376",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:37"
   },
   "ET": {
     "date": "2026-11-03",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:39",
     "source": "https://finviz.com/news/397949/energy-transfer-announces-third-quarter-2026-earnings-release-and-earnings-call-timing",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:39"
   },
   "FLNG": {
     "date": "2026-11-27",
@@ -343,12 +350,18 @@
   },
   "FSLY": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:53",
     "source": "https://www.morningstar.com/news/business-wire/20261008504047/fastly-to-announce-third-quarter-2026-financial-results",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:53"
+  },
+  "GEV": {
+    "date": null,
+    "period_end": null,
+    "quarter": null,
+    "updated_at": "2026-10-28T17:53:45"
   },
   "GLNG": {
     "date": "2026-11-11",
@@ -361,12 +374,12 @@
   },
   "GOOGL": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-27T02:37:16",
     "source": "https://primexbt.com/for-traders/alphabet-earnings-date/",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-27T02:37:16"
   },
   "GS": {
     "date": "2027-01-19",
@@ -399,8 +412,8 @@
     "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:55",
-    "source": "https://www.illumina.com/company/news-center/press-releases/2026/29246.html"
+    "source": "https://www.illumina.com/company/news-center/press-releases/2026/29246.html",
+    "updated_at": "2026-10-28T02:36:55"
   },
   "INIO": {
     "date": "2026-10-27",
@@ -411,21 +424,21 @@
   },
   "INTC": {
     "date": "2026-10-29",
+    "last_report_date": "2026-07-23",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:56",
     "source": "https://www.intc.com/news-events/press-releases/detail/1782/intel-to-report-third-quarter-2026-financial-results",
-    "last_report_date": "2026-07-23",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:56"
   },
   "IREN": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-27",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-28T02:36:58",
     "source": "https://iren.gcs-web.com/static-files/27307e4c-33e5-4007-bdff-88ff09a274a7",
-    "last_report_date": "2026-08-27",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-10-28T02:36:58"
   },
   "JPM": {
     "date": "2027-01-14",
@@ -447,21 +460,21 @@
   },
   "LEU": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:36:59",
     "source": "https://www.placera.se/pressmeddelanden/centrus-energy-centrus-to-webcast-conference-call-on-november-5-at-8-30-a-m-et-20261022",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:36:59"
   },
   "LH": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-27T02:36:58",
     "source": "https://www.labcorp.com/education-events/press-releases/labcorp-announce-third-quarter-2026-financial-results-october-28",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-27T02:36:58"
   },
   "LITE": {
     "date": "2026-11-10",
@@ -474,30 +487,30 @@
   },
   "LLY": {
     "date": "2026-10-29",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:01",
     "source": "https://lilly.gcs-web.com/node/55096/pdf",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:01"
   },
   "LNG": {
     "date": "2026-10-29",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:03",
     "source": "https://finviz.com/news/397743/cheniere-announces-timing-of-third-quarter-2026-earnings-release-and-conference-call",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:03"
   },
   "MDTKF": {
     "date": "2026-10-30",
+    "last_report_date": "2026-08-10",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-24T02:38:15",
     "source": "verified-2026-10-24",
-    "last_report_date": "2026-08-10",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-24T02:38:15"
   },
   "META": {
     "date": "2026-10-21",
@@ -510,12 +523,12 @@
   },
   "MPWR": {
     "date": "2026-10-29",
+    "last_report_date": "2026-08-03",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:04",
     "source": "https://finviz.com/news/400581/monolithic-power-systems-to-report-third-quarter-2026-results-on-october-29-2026",
-    "last_report_date": "2026-08-03",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:04"
   },
   "MRVL": {
     "date": "2026-11-26",
@@ -526,12 +539,12 @@
   },
   "MSFT": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-27T02:37:06",
     "source": "https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-10-27T02:37:06"
   },
   "MU": {
     "date": "2026-12-16",
@@ -553,19 +566,19 @@
   },
   "NET": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:06",
     "source": "https://marketchameleon.com/articles/b/2026/10/14/net-announces-q3-2026-earnings-date-november-5-conference-call",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:06"
   },
   "NEXT": {
     "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:07",
-    "source": "https://www.webull.com/news/15706953929671680"
+    "source": "https://www.webull.com/news/15706953929671680",
+    "updated_at": "2026-10-28T02:37:07"
   },
   "NFE": {
     "date": "2026-11-09",
@@ -578,21 +591,21 @@
   },
   "NOVT": {
     "date": "2026-11-09",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": null,
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-24T02:38:19",
     "source": "verified-2026-10-24",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-24T02:38:19"
   },
   "NOW": {
     "date": "2026-10-28",
+    "last_report_date": "2026-07-22",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-27T02:37:23",
     "source": "https://investor.servicenow.com/news/news-details/2026/ServiceNow-to-Announce-Third-Quarter-2026-Financial-Results-on-October-28/default.aspx",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-27T02:37:23"
   },
   "NVDA": {
     "date": "2026-11-25",
@@ -605,37 +618,37 @@
   },
   "NVO": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-25T02:32:51",
     "source": "https://www.stocktitan.net/sec-filings/NVO/6-k-novo-nordisk-a-s-current-report-foreign-issuer-9837655d9aee.html",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-25T02:32:51"
   },
   "NVTS": {
     "date": "2026-11-03",
+    "last_report_date": "2026-07-27",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:09",
     "source": "https://finviz.com/news/402023/navitas-semiconductor-to-report-q3-2026-financial-results-on-tuesday-november-3-2026",
-    "last_report_date": "2026-07-27",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:09"
   },
   "NXPI": {
     "date": "2026-10-27",
     "period_end": "2026-09-27",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-26T02:39:03",
-    "source": "https://finviz.com/news/399191/nxp-semiconductors-announces-conference-call-to-review-third-quarter-2026-financial-results"
+    "source": "https://finviz.com/news/399191/nxp-semiconductors-announces-conference-call-to-review-third-quarter-2026-financial-results",
+    "updated_at": "2026-10-26T02:39:03"
   },
   "ON": {
     "date": "2026-11-02",
+    "last_report_date": "2026-08-03",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-10-02",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:10",
     "source": "https://finviz.com/news/403289/onsemi-to-announce-third-quarter-financial-results",
-    "last_report_date": "2026-08-03",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:10"
   },
   "ORCL": {
     "date": "2026-12-14",
@@ -648,21 +661,21 @@
   },
   "OUST": {
     "date": "2026-11-03",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:12",
     "source": "https://finviz.com/news/401597/ouster-announces-date-for-third-quarter-2026-earnings-call",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:12"
   },
   "POWI": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:14",
     "source": "https://s25.q4cdn.com/829851629/files/doc_news/Power-Integrations-to-Announce-Third-Quarter-Financial-Results-2026.pdf",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:14"
   },
   "QCOM": {
     "date": "2026-11-11",
@@ -684,30 +697,30 @@
   },
   "SEDG": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:15",
     "source": "https://finviz.com/news/402903/solaredge-to-announce-financial-results-for-the-third-quarter-ended-september-30-2026-on-wednesday-november-4-2026",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:15"
   },
   "SHOP": {
     "date": "2026-11-03",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:17",
     "source": "https://www.quiverquant.com/news/Shopify+to+Announce+Third-Quarter+2026+Financial+Results+on+November+3%2C+2026",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:17"
   },
   "SNDK": {
     "date": "2026-10-29",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q4",
     "period_end": null,
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-28T02:37:19",
     "source": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-09-29-sandisk-to-report-first-quarter-fiscal-year-2027-results-on-october-29-2026",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-10-28T02:37:19"
   },
   "SNOW": {
     "date": "2026-12-02",
@@ -732,42 +745,42 @@
     "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:21",
-    "source": "https://www.globenewswire.com/news-release/2026/10/05/3374171/0/en/index.html"
+    "source": "https://www.globenewswire.com/news-release/2026/10/05/3374171/0/en/index.html",
+    "updated_at": "2026-10-28T02:37:21"
   },
   "STX": {
     "date": "2026-10-27",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-10-02",
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-25T02:33:03",
     "source": "https://www.seagate.com/gb/en/stories/articles/seagate-technology-to-report-fiscal-first-quarter-2027-financial-results-on-october-27-2026-pr/",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-10-25T02:33:03"
   },
   "SYNA": {
     "date": "2026-11-05",
     "period_end": "2026-09-26",
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-27T02:37:50",
-    "source": "https://www.barchart.com/story/news/35499848/synaptics-to-report-first-quarter-fiscal-2026-results-on-november-6-2025"
+    "source": "https://www.barchart.com/story/news/35499848/synaptics-to-report-first-quarter-fiscal-2026-results-on-november-6-2025",
+    "updated_at": "2026-10-27T02:37:50"
   },
   "TEAM": {
     "date": "2026-11-05",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-28T02:37:23",
     "source": "https://finviz.com/news/398890/atlassian-announces-date-for-first-quarter-of-fiscal-year-2027-financial-results",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-10-28T02:37:23"
   },
   "TER": {
     "date": "2026-10-27",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-26T02:39:17",
     "source": "https://investingnews.com/teradyne-to-announce-third-quarter-2026-results/",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-26T02:39:17"
   },
   "TGT": {
     "date": "2026-11-19",
@@ -822,26 +835,26 @@
     "date": "2026-11-05",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:25",
-    "source": "https://finviz.com/news/402016/10x-genomics-to-report-third-quarter-2026-financial-results-on-november-5-2026"
+    "source": "https://finviz.com/news/402016/10x-genomics-to-report-third-quarter-2026-financial-results-on-november-5-2026",
+    "updated_at": "2026-10-28T02:37:25"
   },
   "UBER": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "updated_at": "2026-10-28T02:37:27",
     "source": "https://site.financialmodelingprep.com/market-news/uber-q3-2026-earnings-call-citizens-100-price-target",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "updated_at": "2026-10-28T02:37:27"
   },
   "V": {
     "date": "2026-10-27",
+    "last_report_date": "2026-07-28",
+    "last_report_quarter": "FY26Q3",
     "period_end": "2026-09-30",
     "quarter": "FY26Q4",
-    "updated_at": "2026-10-26T02:39:20",
     "source": "https://investor.visa.com/news/news-details/2026/Visa-to-Announce-Fiscal-Fourth-Quarter-and-Full-Year-2026-Financial-Results-on-October-27-2026/default.aspx",
-    "last_report_date": "2026-07-28",
-    "last_report_quarter": "FY26Q3"
+    "updated_at": "2026-10-26T02:39:20"
   },
   "VG": {
     "date": "2026-11-09",
@@ -872,12 +885,12 @@
   },
   "WOLF": {
     "date": "2026-11-04",
+    "last_report_date": "2026-08-19",
+    "last_report_quarter": "FY26Q4",
     "period_end": null,
     "quarter": "FY27Q1",
-    "updated_at": "2026-10-28T02:37:29",
     "source": "https://finviz.com/news/403322/wolfspeed-inc-announces-date-of-fiscal-first-quarter-earnings-call-for-november-4-2026",
-    "last_report_date": "2026-08-19",
-    "last_report_quarter": "FY26Q4"
+    "updated_at": "2026-10-28T02:37:29"
   },
   "WULF": {
     "date": "2026-11-09",
@@ -887,12 +900,5 @@
     "quarter": "FY26Q3",
     "source": "https://www.gurufocus.com/news/3195653/terawulf-wulf-prepares-for-q3-earnings-announcement",
     "updated_at": "2026-08-13T02:52:09"
-  },
-  "CRWD": {
-    "date": "2026-12-01",
-    "period_end": "2026-10-31",
-    "quarter": "FY27Q3",
-    "updated_at": "2026-10-27T02:37:48",
-    "source": "https://days.to/crowdstrike-earnings"
   }
 }
