@@ -840,12 +840,12 @@
   },
   "UBER": {
     "date": "2026-11-04",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://site.financialmodelingprep.com/market-news/uber-q3-2026-earnings-call-citizens-100-price-target",
-    "updated_at": "2026-10-28T02:37:27"
+    "updated_at": "2026-10-29T02:37:12",
+    "source": "https://investor.uber.com/news-events/events-and-presentations/event-details/2026/Uber-Q3-2026-Earnings-Conference-Call/default.aspx",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "V": {
     "date": "2026-10-27",
