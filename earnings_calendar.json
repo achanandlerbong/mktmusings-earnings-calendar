@@ -766,12 +766,12 @@
   },
   "TEAM": {
     "date": "2026-11-05",
-    "last_report_date": "2026-08-06",
-    "last_report_quarter": "FY26Q4",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "source": "https://finviz.com/news/398890/atlassian-announces-date-for-first-quarter-of-fiscal-year-2027-financial-results",
-    "updated_at": "2026-10-28T02:37:23"
+    "updated_at": "2026-10-29T02:37:09",
+    "source": "https://www.businesswire.com/news/home/20261005588510/en/Atlassian-Announces-Date-for-First-Quarter-of-Fiscal-Year-2027-Financial-Results",
+    "last_report_date": "2026-08-06",
+    "last_report_quarter": "FY26Q4"
   },
   "TER": {
     "date": "2026-10-27",
