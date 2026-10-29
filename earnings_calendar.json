@@ -81,12 +81,12 @@
   },
   "AMD": {
     "date": "2026-11-03",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-26",
     "quarter": "FY26Q3",
+    "updated_at": "2026-10-29T02:36:57",
     "source": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results",
-    "updated_at": "2026-10-28T02:36:48"
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "AMSSY": {
     "date": "2026-11-12",
