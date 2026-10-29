@@ -221,12 +221,12 @@
   },
   "CRUS": {
     "date": "2026-11-04",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY27Q1",
     "period_end": "2026-09-26",
     "quarter": "FY27Q2",
-    "source": "https://finviz.com/news/402039/cirrus-logic-to-report-second-quarter-fiscal-year-2027-results",
-    "updated_at": "2026-10-28T02:36:32"
+    "updated_at": "2026-10-29T02:36:44",
+    "source": "https://investor.cirrus.com/news-and-events/investor-news/news-details/2026/Cirrus-Logic-to-Report-Second-Quarter-Fiscal-Year-2027-Results/default.aspx",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY27Q1"
   },
   "CRWD": {
     "date": "2026-12-01",
