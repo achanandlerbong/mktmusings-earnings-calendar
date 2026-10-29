@@ -706,12 +706,12 @@
   },
   "SHOP": {
     "date": "2026-11-03",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.quiverquant.com/news/Shopify+to+Announce+Third-Quarter+2026+Financial+Results+on+November+3%2C+2026",
-    "updated_at": "2026-10-28T02:37:17"
+    "updated_at": "2026-10-29T02:37:07",
+    "source": "https://www.shopify.com/news/shopify-q3-2026-financial-advisory",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "SNDK": {
     "date": "2026-10-29",
