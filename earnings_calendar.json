@@ -324,13 +324,13 @@
     "updated_at": "2026-08-22T02:33:25"
   },
   "FMCC": {
-    "date": "2026-11-04",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/fmcc/earnings",
-    "updated_at": "2026-08-12T02:42:46"
+    "updated_at": "2026-10-30T02:35:27",
+    "source": "https://www.sec.gov/Archives/edgar/data/0001026214/000102621426000064/fmcc-20261029.htm",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "FNMA": {
     "date": "2026-10-29",
