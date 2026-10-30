@@ -621,12 +621,12 @@
   },
   "NVO": {
     "date": "2026-11-04",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
+    "updated_at": "2026-10-30T02:33:43",
     "source": "https://www.stocktitan.net/sec-filings/NVO/6-k-novo-nordisk-a-s-current-report-foreign-issuer-9837655d9aee.html",
-    "updated_at": "2026-10-25T02:32:51"
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "NVTS": {
     "date": "2026-11-03",
