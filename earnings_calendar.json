@@ -48,11 +48,13 @@
     "updated_at": "2026-10-03T02:31:32"
   },
   "AIXTRON": {
-    "date": "2026-10-29",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "source": "https://www.placera.se/pressmeddelanden/aixtron-aixtron-q3-2026-order-intake-and-operating-profitability-significantly-exceed-market-expectations-20261015-1",
-    "updated_at": "2026-10-28T02:36:43"
+    "date": "2027-02-26",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-10-30T02:32:58",
+    "source": "https://www.ajbell.co.uk/market-research/sub/XETRA:AIXA/company-info",
+    "last_report_date": "2026-10-29",
+    "last_report_quarter": "FY26Q3"
   },
   "AKAM": {
     "date": "2026-11-05",
