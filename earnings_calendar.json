@@ -896,12 +896,12 @@
     "last_report_quarter": "FY26Q4"
   },
   "WULF": {
-    "date": "2026-11-09",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-06",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.gurufocus.com/news/3195653/terawulf-wulf-prepares-for-q3-earnings-announcement",
-    "updated_at": "2026-08-13T02:52:09"
+    "updated_at": "2026-10-30T02:35:26",
+    "source": "https://finviz.com/news/401358/terawulf-schedules-conference-call-for-third-quarter-2026-financial-results",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   }
 }
