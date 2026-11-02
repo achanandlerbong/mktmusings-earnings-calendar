@@ -367,13 +367,13 @@
     "source": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm"
   },
   "GLNG": {
-    "date": "2026-11-11",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-18",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.investing.com/equities/golar-lng-ltd-earnings",
-    "updated_at": "2026-09-19T02:33:05"
+    "updated_at": "2026-11-02T02:36:03",
+    "source": "https://www.financialcontent.com/article/gnwcq-2026-10-19-golar-lng-limited-q3-2026-results-presentation",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q2"
   },
   "GOOGL": {
     "date": "2026-10-28",
