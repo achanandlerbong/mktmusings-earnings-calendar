@@ -342,13 +342,13 @@
     "updated_at": "2026-08-10T02:51:50"
   },
   "FRMI": {
-    "date": "2026-11-10",
-    "last_report_date": "2026-08-13",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-12",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.marketbeat.com/stocks/NASDAQ/FRMI/earnings/",
-    "updated_at": "2026-08-14T02:37:46"
+    "updated_at": "2026-11-02T02:36:00",
+    "source": "https://www.newswire.com/news/fermi-announces-third-quarter-2026-earnings-release-and-call-date",
+    "last_report_date": "2026-08-13",
+    "last_report_quarter": "FY26Q2"
   },
   "FSLY": {
     "date": "2026-11-04",
