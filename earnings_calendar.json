@@ -168,13 +168,13 @@
     "updated_at": "2026-10-27T02:36:31"
   },
   "COHR": {
-    "date": "2026-11-11",
-    "last_report_date": "2026-08-12",
-    "last_report_quarter": "FY26Q4",
+    "date": "2026-11-04",
     "period_end": "2026-09-30",
     "quarter": "FY27Q1",
-    "source": "https://www.tipranks.com/stocks/cohr/earnings",
-    "updated_at": "2026-08-15T02:35:05"
+    "updated_at": "2026-11-02T02:38:19",
+    "source": "https://finviz.com/news/402637/coherent-corp-announces-timing-of-fy2027-first-quarter-earnings-release",
+    "last_report_date": "2026-08-12",
+    "last_report_quarter": "FY26Q4"
   },
   "COIN": {
     "date": "2026-10-29",
