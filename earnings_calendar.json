@@ -480,13 +480,13 @@
     "updated_at": "2026-10-27T02:36:58"
   },
   "LITE": {
-    "date": "2026-11-10",
-    "last_report_date": "2026-08-11",
-    "last_report_quarter": "FY26Q4",
-    "period_end": "2026-09-27",
+    "date": "2026-11-05",
+    "period_end": "2026-09-26",
     "quarter": "FY27Q1",
-    "source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx",
-    "updated_at": "2026-08-12T02:42:49"
+    "updated_at": "2026-11-02T02:38:24",
+    "source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Reporting-Date-for-Fiscal-First-Quarter-2027-Financial-Results/default.aspx",
+    "last_report_date": "2026-08-11",
+    "last_report_quarter": "FY26Q4"
   },
   "LLY": {
     "date": "2026-10-29",
