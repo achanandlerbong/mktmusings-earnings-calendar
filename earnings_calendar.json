@@ -690,13 +690,13 @@
     "last_report_quarter": "FY26Q3"
   },
   "RIVN": {
-    "date": "2026-11-10",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-10-29",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.tipranks.com/stocks/rivn/earnings",
-    "updated_at": "2026-08-10T03:01:20"
+    "updated_at": "2026-11-02T02:38:29",
+    "source": "https://www.benzinga.com/node/62130841",
+    "last_report_date": "2026-07-30",
+    "last_report_quarter": "FY26Q2"
   },
   "SEDG": {
     "date": "2026-11-04",
