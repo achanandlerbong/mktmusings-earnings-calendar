@@ -681,13 +681,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "QCOM": {
-    "date": "2026-11-11",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q3",
+    "date": "2026-11-04",
     "period_end": "2026-09-29",
     "quarter": "FY26Q4",
-    "source": "https://investor.qualcomm.com/",
-    "updated_at": "2026-07-30T02:41:01"
+    "updated_at": "2026-11-02T02:38:27",
+    "source": "https://investingnews.com/qualcomm-schedules-fourth-quarter-and-fiscal-2026-earnings-release-and-conference-call/",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q3"
   },
   "RIVN": {
     "date": "2026-11-10",
