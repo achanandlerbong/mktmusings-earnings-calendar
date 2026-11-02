@@ -91,13 +91,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "AMSSY": {
-    "date": "2026-11-12",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-13",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.marketscreener.com/news/ams-osram-ag-provides-earnings-guidance-for-the-third-quarter-of-2026-reaffirms-earnings-guidance-f-ce7f50ded188f120",
-    "updated_at": "2026-08-06T02:36:18"
+    "updated_at": "2026-11-02T02:35:46",
+    "source": "https://simplywall.st/stocks/it/semiconductors/bit-1amso/ams-osram-shares/dividend",
+    "last_report_date": "2026-08-04",
+    "last_report_quarter": "FY26Q2"
   },
   "AMZN": {
     "date": "2026-10-29",
