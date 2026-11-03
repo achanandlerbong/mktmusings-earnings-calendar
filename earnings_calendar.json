@@ -48,10 +48,11 @@
     "updated_at": "2026-10-03T02:31:32"
   },
   "AEHR": {
-    "date": null,
-    "period_end": null,
-    "quarter": null,
-    "updated_at": "2026-11-03T02:09:57"
+    "date": "2026-11-02",
+    "period_end": "2026-08-31",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-11-03T02:36:16",
+    "source": "https://finviz.com/news/400248/aehr-test-systems-to-announce-first-quarter-fiscal-2027-financial-results-on-november-2-2026"
   },
   "AIXTRON": {
     "date": "2027-02-26",
