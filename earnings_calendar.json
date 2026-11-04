@@ -917,5 +917,12 @@
     "quarter": "FY26Q2",
     "updated_at": "2026-11-02T02:35:33",
     "source": "https://www.advantest.com/en/news/2026/mpd9kn0000000gii-att/E_FR_FY2026_2Q.pdf"
+  },
+  "VRT": {
+    "date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "quarter": "FY26Q3",
+    "updated_at": "2026-11-04T02:36:05",
+    "source": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Announces-Date-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/"
   }
 }
