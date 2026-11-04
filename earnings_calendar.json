@@ -566,13 +566,13 @@
     "updated_at": "2026-10-01T02:38:26"
   },
   "NBIS": {
-    "date": "2026-11-10",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q2",
+    "date": "2026-11-12",
     "period_end": "2026-09-30",
     "quarter": "FY26Q3",
-    "source": "https://www.nasdaq.com/market-activity/stocks/nbis/earnings",
-    "updated_at": "2026-08-13T02:49:39"
+    "updated_at": "2026-11-04T02:35:33",
+    "source": "https://nebius.com/newsroom/nebius-group-announces-date-of-third-quarter-2026-results-and-conference-call",
+    "last_report_date": "2026-07-29",
+    "last_report_quarter": "FY26Q2"
   },
   "NET": {
     "date": "2026-11-05",
