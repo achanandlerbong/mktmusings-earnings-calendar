@@ -627,13 +627,13 @@
     "updated_at": "2026-08-27T02:36:54"
   },
   "NVO": {
-    "date": "2026-11-04",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-11-02T02:36:11",
-    "source": "https://www.marketscreener.com/quote/stock/NOVO-NORDISK-A-S-1412980/calendar/",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "date": "2027-02-03",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-05T02:32:40",
+    "source": "https://ml-eu.globenewswire.com/Resource/Download/59861be7-056f-420d-985b-a7e976f8426d",
+    "last_report_date": "2026-11-04",
+    "last_report_quarter": "FY26Q3"
   },
   "NVTS": {
     "date": "2026-11-03",
