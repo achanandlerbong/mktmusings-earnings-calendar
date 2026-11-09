@@ -367,11 +367,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "GEV": {
-    "date": "2026-10-28",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-10-29T02:37:20",
-    "source": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm"
+    "date": "2027-01-27",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-09T02:34:14",
+    "source": "https://www.gevernova.com/investors/events/4th-quarter-2026-earnings-webcast",
+    "last_report_date": "2026-10-28",
+    "last_report_quarter": "FY26Q3"
   },
   "GLNG": {
     "date": "2026-11-18",
