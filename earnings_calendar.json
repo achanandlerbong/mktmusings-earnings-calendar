@@ -937,5 +937,13 @@
     "updated_at": "2026-11-13T02:34:18",
     "report_time": "before_open",
     "source": "https://www.businesswire.com/news/home/20261112305543/en/Ciena-Announces-Reporting-Date-and-Web-Broadcast-for-Fiscal-Fourth-Quarter-and-Year-End-2026-Results"
+  },
+  "HPE": {
+    "date": "2026-11-23",
+    "period_end": "2026-10-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-13T02:34:21",
+    "report_time": "after_close",
+    "source": "https://www.hpe.com/us/en/newsroom/press-release/2026/11/hpe-to-present-live-audio-webcast-of-fiscal-2026-fourth-quarter-earnings-conference-call.html"
   }
 }
