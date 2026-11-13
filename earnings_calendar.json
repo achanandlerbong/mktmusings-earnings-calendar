@@ -929,5 +929,13 @@
     "quarter": "FY26Q3",
     "updated_at": "2026-11-04T02:42:56",
     "source": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Announces-Date-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/"
+  },
+  "CIEN": {
+    "date": "2026-12-10",
+    "period_end": null,
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-13T02:34:18",
+    "report_time": "before_open",
+    "source": "https://www.businesswire.com/news/home/20261112305543/en/Ciena-Announces-Reporting-Date-and-Web-Broadcast-for-Fiscal-Fourth-Quarter-and-Year-End-2026-Results"
   }
 }
