@@ -891,12 +891,12 @@
   },
   "WMT": {
     "date": "2026-11-19",
-    "last_report_date": "2026-08-20",
-    "last_report_quarter": "FY27Q2",
     "period_end": "2026-10-31",
     "quarter": "FY27Q3",
-    "source": "https://corporate.walmart.com/news/events",
-    "updated_at": "2026-08-17T02:43:55"
+    "updated_at": "2026-11-14T02:32:30",
+    "source": "Walmart corporate events page corporate.walmart.com/news/events/fy2027-q3-earnings-release (URL surfaced in search; 8:00am ET call per countdown sources)",
+    "last_report_date": "2026-08-20",
+    "last_report_quarter": "FY27Q2"
   },
   "WOLF": {
     "date": "2026-11-04",
