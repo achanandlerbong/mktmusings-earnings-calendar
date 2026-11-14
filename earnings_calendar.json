@@ -605,12 +605,12 @@
   },
   "NOVT": {
     "date": "2026-11-09",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2",
     "period_end": null,
     "quarter": "FY26Q3",
-    "source": "verified-2026-10-24",
-    "updated_at": "2026-10-24T02:38:19"
+    "updated_at": "2026-11-14T02:32:27",
+    "source": "https://finviz.com/news/419603/novanta-announces-financial-results-for-the-third-quarter-2026",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q2"
   },
   "NOW": {
     "date": "2026-10-28",
