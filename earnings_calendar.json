@@ -414,12 +414,12 @@
   },
   "IFNNY": {
     "date": "2026-11-10",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q3",
     "period_end": "2026-09-30",
     "quarter": "FY26Q4",
-    "source": "https://www.infineon.com/about/investor",
-    "updated_at": "2026-07-26T02:42:01"
+    "updated_at": "2026-11-14T02:32:29",
+    "source": "Infineon press release infpr202611-025e and Q4 FY26 analyst call statement dated 2026-11-10",
+    "last_report_date": "2026-08-05",
+    "last_report_quarter": "FY26Q3"
   },
   "ILMN": {
     "date": "2026-10-29",
