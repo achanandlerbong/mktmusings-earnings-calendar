@@ -798,12 +798,12 @@
   },
   "TGT": {
     "date": "2026-11-19",
-    "last_report_date": "2026-08-19",
-    "last_report_quarter": "FY27Q2",
     "period_end": "2026-10-31",
     "quarter": "FY27Q3",
-    "source": "https://www.tipranks.com/stocks/tgt/earnings",
-    "updated_at": "2026-08-17T02:43:53"
+    "updated_at": "2026-11-16T02:36:03",
+    "source": "https://www.earningswhispers.com/stocks/tgt",
+    "last_report_date": "2026-08-19",
+    "last_report_quarter": "FY27Q2"
   },
   "TMO": {
     "date": "2026-10-21",
