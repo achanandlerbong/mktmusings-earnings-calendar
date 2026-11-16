@@ -98,13 +98,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "AMSSY": {
-    "date": "2026-11-13",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-11-14T02:32:23",
-    "source": "https://www.finanztrends.de/news/ams-osram-aktie-q3-zahlen-am-13-november-zum-pruefstein/; https://simplywall.st/stocks/it/semiconductors/bit-1amso/ams-osram-shares/dividend; https://ca.marketscreener.com/quote/stock/AMS-OSRAM-AG-100152600/calendar/",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2"
+    "date": "2027-02-16",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-16T02:36:01",
+    "source": "https://simplywall.st/stocks/it/semiconductors/bit-1amso/ams-osram-shares/dividend",
+    "last_report_date": "2026-11-13",
+    "last_report_quarter": "FY26Q3"
   },
   "AMZN": {
     "date": "2026-10-29",
