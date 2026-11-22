@@ -413,13 +413,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "IFNNY": {
-    "date": "2026-11-10",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-11-16T02:36:10",
+    "date": "2027-02-03",
+    "period_end": "2026-12-31",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-11-22T02:33:27",
     "source": "https://www.infineon.com/assets/row/public/documents/corporate/press/2026/infpr202611-025e.pdf",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q3"
+    "last_report_date": "2026-11-10",
+    "last_report_quarter": "FY26Q4"
   },
   "ILMN": {
     "date": "2026-10-29",
