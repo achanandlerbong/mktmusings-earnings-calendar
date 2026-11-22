@@ -755,11 +755,13 @@
     "updated_at": "2026-10-20T20:43:37"
   },
   "STM": {
-    "date": "2026-10-29",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "source": "https://www.globenewswire.com/news-release/2026/10/05/3374171/0/en/index.html",
-    "updated_at": "2026-10-28T02:37:21"
+    "date": "2027-01-28",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-22T02:33:29",
+    "source": "https://finance.yahoo.com/markets/stocks/articles/stmicroelectronics-reports-q3-2026-financial-060000555.html",
+    "last_report_date": "2026-10-29",
+    "last_report_quarter": "FY26Q3"
   },
   "STX": {
     "date": "2026-10-27",
