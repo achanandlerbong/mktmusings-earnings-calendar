@@ -738,12 +738,12 @@
   },
   "SNOW": {
     "date": "2026-12-02",
-    "last_report_date": "2026-09-02",
-    "last_report_quarter": "FY27Q2",
     "period_end": "2026-10-31",
     "quarter": "FY27Q3",
-    "source": "https://www.tipranks.com/stocks/snow/earnings",
-    "updated_at": "2026-09-04T02:42:45"
+    "updated_at": "2026-11-22T02:33:20",
+    "source": "https://investors.snowflake.com/events-and-presentations/event-details/2026/Snowflake-Q3-FY27-Earnings/default.aspx",
+    "last_report_date": "2026-09-02",
+    "last_report_quarter": "FY27Q2"
   },
   "SPCX": {
     "date": "2026-10-20",
