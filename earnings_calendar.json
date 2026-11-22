@@ -323,13 +323,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "FLNG": {
-    "date": "2026-11-11",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-11-17T02:35:06",
-    "source": "https://www.bairdmaritime.com/shipping/tankers/flex-lng-third-quarter-results",
-    "last_report_date": "2026-08-19",
-    "last_report_quarter": "FY26Q2"
+    "date": "2027-02-26",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-22T02:33:25",
+    "source": "https://www.flexlng.com/2-stroke-propulsion/financial-calendar/",
+    "last_report_date": "2026-11-11",
+    "last_report_quarter": "FY26Q3"
   },
   "FMCC": {
     "date": "2026-10-29",
