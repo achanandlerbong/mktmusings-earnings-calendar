@@ -747,14 +747,14 @@
     "last_report_quarter": "FY27Q2"
   },
   "SPCX": {
-    "date": "2026-10-20",
-    "last_report_date": "2026-08-04",
-    "last_report_quarter": "FY26Q2",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "report_time": "after_close",
-    "source": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx",
-    "updated_at": "2026-10-20T20:43:37"
+    "date": "2027-02-25",
+    "period_end": "2026-12-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-25T02:37:04",
+    "source": "estimated: https://uk.investing.com/equities/spacex-earnings",
+    "last_report_date": "2026-10-20",
+    "last_report_quarter": "FY26Q3",
+    "last_report_time": "after_close"
   },
   "STM": {
     "date": "2027-01-28",
