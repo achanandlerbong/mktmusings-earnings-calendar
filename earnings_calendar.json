@@ -826,11 +826,13 @@
     "last_report_time": "after_close"
   },
   "TSM": {
-    "date": "2026-10-15",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "source": "https://investor.tsmc.com/english/quarterly-results/2026/q3",
-    "updated_at": "2026-10-05T02:35:02"
+    "date": "2027-01-14",
+    "period_end": "2026-12-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-25T02:36:59",
+    "source": "estimated: https://days.to/when-is/tsmc-earnings/2027",
+    "last_report_date": "2026-10-15",
+    "last_report_quarter": "FY26Q3"
   },
   "TWLO": {
     "date": "2026-10-29",
