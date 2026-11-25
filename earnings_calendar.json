@@ -858,13 +858,13 @@
     "source": "https://finviz.com/news/402016/10x-genomics-to-report-third-quarter-2026-financial-results-on-november-5-2026"
   },
   "UBER": {
-    "date": "2026-11-04",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "updated_at": "2026-11-03T02:35:07",
-    "source": "https://site.financialmodelingprep.com/market-news/uber-q3-2026-earnings-call-citizens-100-price-target",
-    "last_report_date": "2026-08-05",
-    "last_report_quarter": "FY26Q2"
+    "date": "2027-02-03",
+    "period_end": "2026-12-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-25T02:37:00",
+    "source": "estimated: https://www.earningswhispers.com/stocks/UBER",
+    "last_report_date": "2026-11-04",
+    "last_report_quarter": "FY26Q3"
   },
   "V": {
     "date": "2026-10-27",
