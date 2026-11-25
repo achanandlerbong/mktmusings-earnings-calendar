@@ -30,13 +30,13 @@
     "last_report_quarter": "FY26Q2"
   },
   "AAPL": {
-    "date": "2026-11-02",
-    "period_end": "2026-09-26",
-    "quarter": "FY26Q4",
-    "updated_at": "2026-10-30T02:33:09",
-    "source": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/",
-    "last_report_date": "2026-07-30",
-    "last_report_quarter": "FY26Q3"
+    "date": "2027-01-28",
+    "period_end": "2026-12-26",
+    "quarter": "FY27Q1",
+    "updated_at": "2026-11-25T02:36:45",
+    "source": "estimated: https://days.to/apple-earnings/q1-fy2027",
+    "last_report_date": "2026-11-02",
+    "last_report_quarter": "FY26Q4"
   },
   "ACN": {
     "date": "2026-12-18",
