@@ -587,11 +587,13 @@
     "last_report_quarter": "FY26Q3"
   },
   "NEXT": {
-    "date": "2026-10-29",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "source": "https://www.webull.com/news/15706953929671680",
-    "updated_at": "2026-10-28T02:37:07"
+    "date": "2027-03-08",
+    "period_end": "2026-12-31",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-25T02:36:55",
+    "source": "estimated: https://www.tipranks.com/stocks/NEXT/earnings",
+    "last_report_date": "2026-10-29",
+    "last_report_quarter": "FY26Q3"
   },
   "NFE": {
     "date": "2026-11-16",
