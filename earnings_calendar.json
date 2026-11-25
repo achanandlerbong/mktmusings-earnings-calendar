@@ -551,13 +551,13 @@
     "source": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
   },
   "MSFT": {
-    "date": "2026-10-28",
-    "last_report_date": "2026-07-29",
-    "last_report_quarter": "FY26Q4",
-    "period_end": "2026-09-30",
-    "quarter": "FY27Q1",
-    "source": "https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date",
-    "updated_at": "2026-10-27T02:37:06"
+    "date": "2027-01-27",
+    "period_end": "2026-12-31",
+    "quarter": "FY27Q2",
+    "updated_at": "2026-11-25T02:36:52",
+    "source": "estimated: https://days.to/microsoft-earnings/q2-fy2027",
+    "last_report_date": "2026-10-28",
+    "last_report_quarter": "FY27Q1"
   },
   "MU": {
     "date": "2026-12-16",
