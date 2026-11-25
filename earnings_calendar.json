@@ -816,14 +816,14 @@
     "updated_at": "2026-10-21T02:35:35"
   },
   "TSLA": {
-    "date": "2026-10-21",
-    "last_report_date": "2026-07-22",
-    "last_report_quarter": "FY26Q2",
-    "period_end": "2026-09-30",
-    "quarter": "FY26Q3",
-    "report_time": "after_close",
-    "source": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/exhibit991111111.htm",
-    "updated_at": "2026-10-02T14:15:30"
+    "date": "2027-03-02",
+    "period_end": "2026-12-30",
+    "quarter": "FY26Q4",
+    "updated_at": "2026-11-25T02:36:57",
+    "source": "estimated: marketscreener TESLA calendar",
+    "last_report_date": "2026-10-21",
+    "last_report_quarter": "FY26Q3",
+    "last_report_time": "after_close"
   },
   "TSM": {
     "date": "2026-10-15",
